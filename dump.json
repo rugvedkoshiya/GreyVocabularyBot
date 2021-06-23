@@ -1,0 +1,4087 @@
+[
+    {
+        "word": "ABATE",
+        "meaning": "TO DECREASE; REDUCE",
+        "send": 0
+    },
+    {
+        "word": "ABDICATE",
+        "meaning": "TO GIVE UP A POSITION, RIGHT, OR POWER",
+        "send": 0
+    },
+    {
+        "word": "ABERRANT",
+        "meaning": "DEVIATING FROM WHAT IS NORMAL",
+        "send": 0
+    },
+    {
+        "word": "ABEYANCE",
+        "meaning": "TEMPORARY SUPPRESSION OR SUSPENSION",
+        "send": 0
+    },
+    {
+        "word": "ABJECT",
+        "meaning": "MISERABLE; PITIFUL",
+        "send": 0
+    },
+    {
+        "word": "ABJURE",
+        "meaning": "TO REJECT; ABANDON FORMALLY",
+        "send": 0
+    },
+    {
+        "word": "ABSCISSION",
+        "meaning": "N. THE ACT OF CUTTING; THE NATURAL SEPARATION OF A LEAF OR OTHER PART OF A PLANT, V. TO CUT OFF OR AWAY (ABSCISE)",
+        "send": 0
+    },
+    {
+        "word": "ABSCOND",
+        "meaning": "TO DEPART SECRETLY",
+        "send": 0
+    },
+    {
+        "word": "ABSTEMIOUS",
+        "meaning": "MODERATE IN APPETITE",
+        "send": 0
+    },
+    {
+        "word": "ABSTINENCE",
+        "meaning": "THE GIVING UP OF CERTAIN PLEASURES",
+        "send": 0
+    },
+    {
+        "word": "ABYSMAL",
+        "meaning": "VERY BAD",
+        "send": 0
+    },
+    {
+        "word": "ACCRETION",
+        "meaning": "GROWTH IN SIZE OR INCREASE IN AMOUNT",
+        "send": 0
+    },
+    {
+        "word": "ACCRUE",
+        "meaning": "TO ACCUMULATE; GROW BY ADDITIONS",
+        "send": 0
+    },
+    {
+        "word": "ADAMANT",
+        "meaning": "UNCOMPROMISING; UNYIELDING",
+        "send": 0
+    },
+    {
+        "word": "ADJUNCT",
+        "meaning": "SOMETHING ADDED, ATTACHED, OR JOINED",
+        "send": 0
+    },
+    {
+        "word": "ADMONISH",
+        "meaning": "TO CAUTION OR REPRIMAND",
+        "send": 0
+    },
+    {
+        "word": "ADULTERATE",
+        "meaning": "TO CORRUPT OR MAKE IMPURE",
+        "send": 0
+    },
+    {
+        "word": "AESTHETIC",
+        "meaning": "ADJ. RELATING TO BEAUTY OR ART, N. A CONCEPTION OF WHAT IS ARTISTICALLY BEAUTIFUL",
+        "send": 0
+    },
+    {
+        "word": "AFFECTED",
+        "meaning": "PRETENTIOUS, PHONY",
+        "send": 0
+    },
+    {
+        "word": "AFFINITY",
+        "meaning": "FONDNESS; LIKING; SIMILARITY",
+        "send": 0
+    },
+    {
+        "word": "AGGRANDIZE",
+        "meaning": "TO MAKE LARGER OR GREATER",
+        "send": 0
+    },
+    {
+        "word": "AGGREGATE",
+        "meaning": "ADJ. AMOUNTING TO A WHOLE; TOTAL, V. TO COLLECT INTO A MASS, N. COLLECTIVE MASS OR SUM",
+        "send": 0
+    },
+    {
+        "word": "ALACRITY",
+        "meaning": "CHEERFUL WILLINGNESS; EAGERNESS; SPEED",
+        "send": 0
+    },
+    {
+        "word": "ALCHEMY",
+        "meaning": "MEDIEVAL CHEMICAL PHILOSOPHY BASED ON CHANGING METAL INTO GOLD; A SEEMINGLY MAGICAL POWER OR PROCESS OF TRANSMUTATION",
+        "send": 0
+    },
+    {
+        "word": "ALLAY",
+        "meaning": "TO LESSEN; EASE; SOOTHE",
+        "send": 0
+    },
+    {
+        "word": "ALLEVIATE",
+        "meaning": "TO RELIEVE; IMPROVE PARTIALLY",
+        "send": 0
+    },
+    {
+        "word": "ALLOY",
+        "meaning": "A COMBINATION; A MIXTURE OF TWO OR MORE METALS",
+        "send": 0
+    },
+    {
+        "word": "ALLURE",
+        "meaning": "THE POWER TO ENTICE BY CHARM",
+        "send": 0
+    },
+    {
+        "word": "AMALGAMATE",
+        "meaning": "TO COMBINE INTO A UNIFIED WHOLE",
+        "send": 0
+    },
+    {
+        "word": "AMBIGUOUS",
+        "meaning": "UNCLEAR OR DOUBTFUL IN MEANING",
+        "send": 0
+    },
+    {
+        "word": "AMBIVALENCE",
+        "meaning": "THE STATE OF HAVING CONFLICTING EMOTIONAL ATTITUDES",
+        "send": 0
+    },
+    {
+        "word": "AMBROSIA",
+        "meaning": "SOMETHING DELICIOUS; THE FOOD OF THE GODS",
+        "send": 0
+    },
+    {
+        "word": "AMELIORATE",
+        "meaning": "TO IMPROVE",
+        "send": 0
+    },
+    {
+        "word": "AMENABLE",
+        "meaning": "AGREEABLE; COOPERATIVE; SUITED",
+        "send": 0
+    },
+    {
+        "word": "AMENITY",
+        "meaning": "SOMETHING THAT INCREASES COMFORT",
+        "send": 0
+    },
+    {
+        "word": "AMULET",
+        "meaning": "ORNAMENT WORN AS A CHARM AGAINST EVIL SPIRITS",
+        "send": 0
+    },
+    {
+        "word": "ANACHRONISM",
+        "meaning": "SOMETHING OUT OF THE PROPER TIME",
+        "send": 0
+    },
+    {
+        "word": "ANALGESIC",
+        "meaning": "MEDICATION THAT REDUCES OR ELIMATES PAIN",
+        "send": 0
+    },
+    {
+        "word": "ANALOGOUS",
+        "meaning": "ADJ. COMPARABLE, N. A SIMILARITY IN SOME WAYS BETWEEN THINGS THAT ARE OTHERWISE DISSIMILAR (ANALOGY)",
+        "send": 0
+    },
+    {
+        "word": "ANARCHY",
+        "meaning": "N. ABSENCE OF GOVERNMENT; STATE OF DISORDER, ADJ. LACKING ORDER OR CONTROL (ANARCHIC)",
+        "send": 0
+    },
+    {
+        "word": "ANODYNE",
+        "meaning": "N. SOMETHING THAT CALMS OR SOOTHES PAIN, ADJ. RELAXING, OR CAPABLE OF SOOTHING PAIN",
+        "send": 0
+    },
+    {
+        "word": "ANOMALOUS",
+        "meaning": "IRREGULAR; DEVIATING FROM THE NORM",
+        "send": 0
+    },
+    {
+        "word": "ANTECEDENT",
+        "meaning": "SOMETHING THAT COMES BEFORE",
+        "send": 0
+    },
+    {
+        "word": "ANTEDILUVIAN",
+        "meaning": "PREHISTORIC",
+        "send": 0
+    },
+    {
+        "word": "ANTIPATHY",
+        "meaning": "DISLIKE; HOSTILITY",
+        "send": 0
+    },
+    {
+        "word": "APATHY",
+        "meaning": "INDIFFERENCE",
+        "send": 0
+    },
+    {
+        "word": "APEX",
+        "meaning": "THE HIGHEST POINT",
+        "send": 0
+    },
+    {
+        "word": "APOGEE",
+        "meaning": "THE POINT IN AN ORBIT MOST DISTANT FROM THE BODY BEING ORBITED; THE HIGHEST POINT",
+        "send": 0
+    },
+    {
+        "word": "APOTHEGM",
+        "meaning": "A TERSE, WITTY SAYING",
+        "send": 0
+    },
+    {
+        "word": "APPEASE",
+        "meaning": "TO CALM; PACIFY; PLACATE",
+        "send": 0
+    },
+    {
+        "word": "APPELLATION",
+        "meaning": "NAME",
+        "send": 0
+    },
+    {
+        "word": "APPOSITE",
+        "meaning": "STRINKINGLY APPROPRIATE AND RELEVANT",
+        "send": 0
+    },
+    {
+        "word": "APPRISE",
+        "meaning": "TO INFORM",
+        "send": 0
+    },
+    {
+        "word": "APPROBATION",
+        "meaning": "PRAISE; APPROVAL",
+        "send": 0
+    },
+    {
+        "word": "APPROPRIATE",
+        "meaning": "TO TAKE POSSESSION FOR ONE'S OWN USE; CONFISCATE",
+        "send": 0
+    },
+    {
+        "word": "APROPOS",
+        "meaning": "RELEVANT",
+        "send": 0
+    },
+    {
+        "word": "ARABESQUE",
+        "meaning": "ORNATE DESIGN FEATURING INTERTWINED CURVES; A BALLET POSITION IN WHICH ONE LEG IS EXTENDED IN BACK WHILE THE OTHER SUPPORTS THE WEIGHT OF THE BODY",
+        "send": 0
+    },
+    {
+        "word": "ARCHEOLOGY",
+        "meaning": "THE STUDY OF MATERIAL EVIDENCE OF PAST HUMAN LIFE",
+        "send": 0
+    },
+    {
+        "word": "ARDOR",
+        "meaning": "GREAT EMOTION OR PASSION",
+        "send": 0
+    },
+    {
+        "word": "ARDUOUS",
+        "meaning": "EXTREMELY DIFFICULT; LABORIOUS",
+        "send": 0
+    },
+    {
+        "word": "ARGOT",
+        "meaning": "A SPECIALIZED VOCABULARY USED BY A GROUP",
+        "send": 0
+    },
+    {
+        "word": "ARREST",
+        "meaning": "TO STOP; TO SEIZE",
+        "send": 0
+    },
+    {
+        "word": "ARTIFACT",
+        "meaning": "ITEM MADE BY HUMAN CRAFT",
+        "send": 0
+    },
+    {
+        "word": "ARTLESS",
+        "meaning": "GUILELESS; NATURAL",
+        "send": 0
+    },
+    {
+        "word": "ASCETIC",
+        "meaning": "N. ONE WHO PRACTICES SELF-DENIAL, ADJ. SELF-DENYING OR AUSTERE",
+        "send": 0
+    },
+    {
+        "word": "ASPERITY",
+        "meaning": "SEVERITY; HARSHNESS; IRRITABILITY",
+        "send": 0
+    },
+    {
+        "word": "ASPERSION",
+        "meaning": "SLANDER; FALSE RUMOR",
+        "send": 0
+    },
+    {
+        "word": "ASSIDUOUS",
+        "meaning": "DILIGENT; HARD-WORKING",
+        "send": 0
+    },
+    {
+        "word": "ASSUAGE",
+        "meaning": "TO MAKE LESS SEVERE",
+        "send": 0
+    },
+    {
+        "word": "ASTRINGENT",
+        "meaning": "HARSH; SEVERE",
+        "send": 0
+    },
+    {
+        "word": "ASYLUM",
+        "meaning": "PLACE OF REFUGE OR SHELTER",
+        "send": 0
+    },
+    {
+        "word": "ATAVISM",
+        "meaning": "IN BIOLOGY, THE REAPPEARANCE OF A CHARACTERISTIC IN AN ORGANISM AFTER SEVERAL GENERATIONS OF ABSENCE; INDIVIDUAL OR A PART THAT EXHIBITS ATAVISM; RETURN OF A TRAIT AFTER A PERIOD OF ABSENCE",
+        "send": 0
+    },
+    {
+        "word": "ATTENUATE",
+        "meaning": "TO WEAKEN",
+        "send": 0
+    },
+    {
+        "word": "AUDACIOUS",
+        "meaning": "BOLD; DARING",
+        "send": 0
+    },
+    {
+        "word": "AUSTERE",
+        "meaning": "STERN; UNADORNED",
+        "send": 0
+    },
+    {
+        "word": "AUTONOMOUS",
+        "meaning": "SELF-GOVERNING; INDEPENDENT",
+        "send": 0
+    },
+    {
+        "word": "AVARICE",
+        "meaning": "GREED",
+        "send": 0
+    },
+    {
+        "word": "AVER",
+        "meaning": "TO AFFIRM; DECLARE TO BE TRUE",
+        "send": 0
+    },
+    {
+        "word": "AVOCATION",
+        "meaning": "SECONDARY OCCUPATION",
+        "send": 0
+    },
+    {
+        "word": "AVUNCULAR",
+        "meaning": "LIKE AN UNCLE, BENEVOLENT AND TOLERANT",
+        "send": 0
+    },
+    {
+        "word": "AXIOMATIC",
+        "meaning": "TAKEN FOR GRANTED",
+        "send": 0
+    },
+    {
+        "word": "BACCHANALIAN",
+        "meaning": "PERTAINING TO RIOTOUS OR DRUNKEN FESTIVITY; PERTAINING TO REVELRY",
+        "send": 0
+    },
+    {
+        "word": "BANAL",
+        "meaning": "COMMONPLACE; TRITE",
+        "send": 0
+    },
+    {
+        "word": "BANTER",
+        "meaning": "PLAYFUL CONVERSATION",
+        "send": 0
+    },
+    {
+        "word": "BARD",
+        "meaning": "POET",
+        "send": 0
+    },
+    {
+        "word": "BAWDY",
+        "meaning": "OBSCENE",
+        "send": 0
+    },
+    {
+        "word": "BEATIFY",
+        "meaning": "TO SANCTIFY; TO BLESS; TO ASCRIBE A VIRTUE TO",
+        "send": 0
+    },
+    {
+        "word": "BEDIZEN",
+        "meaning": "TO DRESS IN A VULGAR; SHOWY MANNER",
+        "send": 0
+    },
+    {
+        "word": "BEHEMOTH",
+        "meaning": "HUGE CREATURE; ANYTHING VERY LARGE AND POWERFUL",
+        "send": 0
+    },
+    {
+        "word": "BELIE",
+        "meaning": "TO CONTRADICT; MISREPRESENT; GIVE A FALSE IMPRESSION",
+        "send": 0
+    },
+    {
+        "word": "BENEFICENT",
+        "meaning": "KINDLY; DOING GOOD",
+        "send": 0
+    },
+    {
+        "word": "BIFURCATE",
+        "meaning": "TO DIVIDE INTO TWO PARTS",
+        "send": 0
+    },
+    {
+        "word": "BLANDISHMENT",
+        "meaning": "N. FLATTERY, V. TO COAX WITH FLATTERY (BLANDISH)",
+        "send": 0
+    },
+    {
+        "word": "BLASE",
+        "meaning": "BORED BECAUSE OF FREQUENT INDULGENCE; UNCONCERNED",
+        "send": 0
+    },
+    {
+        "word": "BOLSTER",
+        "meaning": "TO GIVE A BOOST TO; PROP UP; SUPPORT",
+        "send": 0
+    },
+    {
+        "word": "BOMBASTIC",
+        "meaning": "POMPOUS; USING INFLATED LANGUAGE",
+        "send": 0
+    },
+    {
+        "word": "BOORISH",
+        "meaning": "RUDE; INSENSITIVE",
+        "send": 0
+    },
+    {
+        "word": "BOVINE",
+        "meaning": "COWLIKE",
+        "send": 0
+    },
+    {
+        "word": "BRAZEN",
+        "meaning": "BOLD; SHAMELESS",
+        "send": 0
+    },
+    {
+        "word": "BROACH",
+        "meaning": "TO MENTION FOR THE FIRST TIME",
+        "send": 0
+    },
+    {
+        "word": "BUCOLIC",
+        "meaning": "CHARACTERISTIC OF THE COUNTRYSIDE; RUSTIC; PASTORAL",
+        "send": 0
+    },
+    {
+        "word": "BURGEON",
+        "meaning": "TO FLOURISH",
+        "send": 0
+    },
+    {
+        "word": "BURNISH",
+        "meaning": "TO POLISH",
+        "send": 0
+    },
+    {
+        "word": "BUTTRESS",
+        "meaning": "TO REINFORCE; SUPPORT",
+        "send": 0
+    },
+    {
+        "word": "CACOPHONOUS",
+        "meaning": "UNPLEASANT OR HARSH-SOUNDING",
+        "send": 0
+    },
+    {
+        "word": "CADGE",
+        "meaning": "TO BEG; SPONGE",
+        "send": 0
+    },
+    {
+        "word": "CALLOUS",
+        "meaning": "THICK-SKINNED; INSENSITIVE",
+        "send": 0
+    },
+    {
+        "word": "CALUMNY",
+        "meaning": "FALSE AND MALICIOUS ACCUSATION; SLANDER",
+        "send": 0
+    },
+    {
+        "word": "CANARD",
+        "meaning": "FALSE, DELIBERATELY MISLEADING STORY",
+        "send": 0
+    },
+    {
+        "word": "CANON",
+        "meaning": "AN ESTABLISHED PRINCIPLE; A BASIS OR STANDARD FOR JUDGMENT; A GROUP OF LITERARY WORKS",
+        "send": 0
+    },
+    {
+        "word": "CANT",
+        "meaning": "INSINCERE TALK; LANGUAGE OF A PARTICULAR GROUP",
+        "send": 0
+    },
+    {
+        "word": "CANTANKEROUS",
+        "meaning": "IRRITABLE; ILL-HUMORED",
+        "send": 0
+    },
+    {
+        "word": "CAPRICIOUS",
+        "meaning": "ADJ. FICKLE, N. INCLINATION TO CHANGE ONE'S MIND COMPULSIVELY",
+        "send": 0
+    },
+    {
+        "word": "CAPTIOUS",
+        "meaning": "FAULTFINDING; INTENDED TO ENTRAP, AS IN AN ARGUMENT",
+        "send": 0
+    },
+    {
+        "word": "CARDINAL",
+        "meaning": "OF FOREMOST IMPORTANCE",
+        "send": 0
+    },
+    {
+        "word": "CARNAL",
+        "meaning": "OF THE FLESH OR BODY; RELATED TO PHYSICAL APPETITES",
+        "send": 0
+    },
+    {
+        "word": "CARPING",
+        "meaning": "TO FIND FAULT; COMPLAIN",
+        "send": 0
+    },
+    {
+        "word": "CARTOGRAPHY",
+        "meaning": "SCIENCE OF MAKING MAPS",
+        "send": 0
+    },
+    {
+        "word": "CASTE",
+        "meaning": "ANY OF THE HEREDITARY SOCIAL CLASSES OF HINDU SOCIETY; SOCIAL STRATIFICATION",
+        "send": 0
+    },
+    {
+        "word": "CASTIGATION",
+        "meaning": "PUNISHMENT; CHASTISEMENT; CRITICISM",
+        "send": 0
+    },
+    {
+        "word": "CATACLYSM",
+        "meaning": "A VIOLENT UPHEAVAL THAT CAUSES GREAT DESTRUCTION AND CHANGE",
+        "send": 0
+    },
+    {
+        "word": "CATALYST",
+        "meaning": "SOMETHING CAUSING CHANGE",
+        "send": 0
+    },
+    {
+        "word": "CATEGORICAL",
+        "meaning": "ABSOLUTE; WITHOUT EXCEPTION",
+        "send": 0
+    },
+    {
+        "word": "CAUCUS",
+        "meaning": "SMALLER GROUP WITHIN AN ORGANIZATION",
+        "send": 0
+    },
+    {
+        "word": "CAUSAL",
+        "meaning": "INVOLVING A CAUSE",
+        "send": 0
+    },
+    {
+        "word": "CAUSTIC",
+        "meaning": "SARCASTICALLY BITING; BURNING",
+        "send": 0
+    },
+    {
+        "word": "CELESTIAL",
+        "meaning": "CONCERNING THE SKY OR HEAVENS; SUBLIME",
+        "send": 0
+    },
+    {
+        "word": "CENTRIFUGAL",
+        "meaning": "MOVING AWAY FROM A CENTER",
+        "send": 0
+    },
+    {
+        "word": "CENTRIPETAL",
+        "meaning": "MOVING OR DIRECTED TOWARD A CENTER",
+        "send": 0
+    },
+    {
+        "word": "CHAMPION",
+        "meaning": "TO DEFEND OR SUPPORT",
+        "send": 0
+    },
+    {
+        "word": "CHASTEN",
+        "meaning": "TO CORRECT BY PUNISHMENT OR REPROOF; TO RESTRAIN OR SUBDUE",
+        "send": 0
+    },
+    {
+        "word": "CHICANERY",
+        "meaning": "TRICKERY; FRAUD",
+        "send": 0
+    },
+    {
+        "word": "CHIVALRY",
+        "meaning": "THE QUALITIES IDEALIZED BY KNIGHTHOOD SUCH AS BRAVERY AND GALLANTRY TOWARD WOMEN",
+        "send": 0
+    },
+    {
+        "word": "CHURLISH",
+        "meaning": "RUDE; BOORISH",
+        "send": 0
+    },
+    {
+        "word": "CIRCUITOUS",
+        "meaning": "ROUNDABOUT",
+        "send": 0
+    },
+    {
+        "word": "CLAIRVOYANT",
+        "meaning": "ONE WHO CAN PREDICT THE FUTURE; PSYCHIC",
+        "send": 0
+    },
+    {
+        "word": "CLAMOR",
+        "meaning": "NOISY OUTCRY",
+        "send": 0
+    },
+    {
+        "word": "CLIQUE",
+        "meaning": "A SMALL, EXCLUSIVE GROUP",
+        "send": 0
+    },
+    {
+        "word": "COAGULATE",
+        "meaning": "THICKEN; CONGEAL",
+        "send": 0
+    },
+    {
+        "word": "CLOISTER",
+        "meaning": "V. TO CONFINE; SECLUDE, N. MONASTERY OR CONVENT, ADJ. SHUT AWAY FROM THE WORLD (CLOISTERED)",
+        "send": 0
+    },
+    {
+        "word": "COALESCE",
+        "meaning": "TO CAUSE TO BEOME ONE",
+        "send": 0
+    },
+    {
+        "word": "CODA",
+        "meaning": "CONCLUDING PART OF A LITERARY OR MUSICAL COMPOSITION; SOMETHING THAT SUMMARIZES OR CONCLUDES",
+        "send": 0
+    },
+    {
+        "word": "CODIFY",
+        "meaning": "SYSTEMATIZE",
+        "send": 0
+    },
+    {
+        "word": "COGNIZANT",
+        "meaning": "INFORMED; CONSCIOUS; AWARE",
+        "send": 0
+    },
+    {
+        "word": "COLLAGE",
+        "meaning": "ARTISTIC COMPOSITION OF MATERIALS PASTED OVER A SURFACE; AN ASSEMBLAGE OF DIVERSE ELEMENTS",
+        "send": 0
+    },
+    {
+        "word": "COMMENSURATE",
+        "meaning": "PROPORTIONAL",
+        "send": 0
+    },
+    {
+        "word": "COMPENDIUM",
+        "meaning": "BRIEF, COMPREHENSIVE SUMMARY",
+        "send": 0
+    },
+    {
+        "word": "COMPLACENT",
+        "meaning": "SELF-SATISFIED",
+        "send": 0
+    },
+    {
+        "word": "COMPLAISANT",
+        "meaning": "OVERLY POLITE; WILLING TO PLEASE; OBLIGING",
+        "send": 0
+    },
+    {
+        "word": "COMPLEMENT",
+        "meaning": "SOMETHING THAT COMPLETES OR MAKES UP A WHOLE",
+        "send": 0
+    },
+    {
+        "word": "COMPLIANT",
+        "meaning": "YIELDING",
+        "send": 0
+    },
+    {
+        "word": "COMPUNCTION",
+        "meaning": "UNEASINESS CAUSED BY GUILT",
+        "send": 0
+    },
+    {
+        "word": "CONCAVE",
+        "meaning": "CURVING INWARD",
+        "send": 0
+    },
+    {
+        "word": "CONCILIATORY",
+        "meaning": "OVERCOMING DISTRUST OR HOSTILITY",
+        "send": 0
+    },
+    {
+        "word": "CONCOCT",
+        "meaning": "INVENT",
+        "send": 0
+    },
+    {
+        "word": "CONCOMITANT",
+        "meaning": "EXISTING CONCURRENTLY",
+        "send": 0
+    },
+    {
+        "word": "CONDONE",
+        "meaning": "TO OVERLOOK VOLUTARILY; FORGIVE",
+        "send": 0
+    },
+    {
+        "word": "CONFOUND",
+        "meaning": "TO BAFFLE; PERPLEX; MIX UP",
+        "send": 0
+    },
+    {
+        "word": "CONGENIAL",
+        "meaning": "SIMILAR IN TASTES AND HABITS; FRIENDLY; SUITED TO",
+        "send": 0
+    },
+    {
+        "word": "CONJUGAL",
+        "meaning": "PERTAINING TO MARRIAGE AGREEMENT",
+        "send": 0
+    },
+    {
+        "word": "CONNOISSEUR",
+        "meaning": "A PERSON POSSESSING EXPERT KNOWLEDGE OR TRAINING; A PERSON OF INFORMED AND DISCRIMINATING TASTE",
+        "send": 0
+    },
+    {
+        "word": "CONSCRIPT",
+        "meaning": "N. PERSON COMPULSORILY ENROLLED FOR MILITARY SERVICE, V. TO ENROLL A PERSON FOR MILITARY SERVICE",
+        "send": 0
+    },
+    {
+        "word": "CONSECRATE",
+        "meaning": "TO DECLARE SACRED",
+        "send": 0
+    },
+    {
+        "word": "CONTEND",
+        "meaning": "V. TO ASSERT, N. AN ASSERTION (CONTENTION)",
+        "send": 0
+    },
+    {
+        "word": "CONTENTIOUS",
+        "meaning": "QUARRELSOME; CAUSING QUARRELS",
+        "send": 0
+    },
+    {
+        "word": "CONTINENCE",
+        "meaning": "SELF-CONTROL; ABSTENTION FROM SEXUAL ACTIVITY",
+        "send": 0
+    },
+    {
+        "word": "CONTRITE",
+        "meaning": "VERY SORROWFUL FOR A WRONG",
+        "send": 0
+    },
+    {
+        "word": "CONTUMACIOUS",
+        "meaning": "DISOBEDIENT; REBELLIOUS",
+        "send": 0
+    },
+    {
+        "word": "CONUNDRUM",
+        "meaning": "RIDDLE; PUZZLE WITH NO SOLUTION",
+        "send": 0
+    },
+    {
+        "word": "CONTIGUOUS",
+        "meaning": "TOUCHING, NEIGHBORING; CONNECTING WITHOUT A BREAK",
+        "send": 0
+    },
+    {
+        "word": "CONVENTION",
+        "meaning": "N. PRACTICE WIDELY OBSERVED IN A GROUP; CUSTOM; ACCEPTED TECHNIQUE OR DEVICE, ADJ. CUSTOMARY OR COMMONPLACE (CONVENTIONAL)",
+        "send": 0
+    },
+    {
+        "word": "CONVERGE",
+        "meaning": "TO APPROACH; COME TOGETHER; TEND TO MEET",
+        "send": 0
+    },
+    {
+        "word": "CONVEX",
+        "meaning": "CURVED OUTWARD",
+        "send": 0
+    },
+    {
+        "word": "CONVIVIAL",
+        "meaning": "SOCIABLE",
+        "send": 0
+    },
+    {
+        "word": "CONVOLUTED",
+        "meaning": "TWISTED; COMPLICATED",
+        "send": 0
+    },
+    {
+        "word": "COPIOUS",
+        "meaning": "ABUNDANT; PLENTIFUL",
+        "send": 0
+    },
+    {
+        "word": "COQUETTE",
+        "meaning": "WOMAN WHO FLIRTS",
+        "send": 0
+    },
+    {
+        "word": "CORNUCOPIA",
+        "meaning": "HORN OVERFLOWING WITH FRUIT AND GRAIN; STATE OF ABUNDANCE",
+        "send": 0
+    },
+    {
+        "word": "COSMOLOGY",
+        "meaning": "STUDY OF THE UNIVERSE AS A TOTALITY;THEORY OF THE ORIGIN AND STRUCTURE OF THE UNIVERSE",
+        "send": 0
+    },
+    {
+        "word": "COVERT",
+        "meaning": "HIDDEN; SECRET",
+        "send": 0
+    },
+    {
+        "word": "COVETOUS",
+        "meaning": "DESIRING SOMETHING OWNED BY ANOTHER",
+        "send": 0
+    },
+    {
+        "word": "COZEN",
+        "meaning": "TO MISLEAD BY TRICK OR FRAUD; DECEIVE",
+        "send": 0
+    },
+    {
+        "word": "CRAVEN",
+        "meaning": "COWARDLY",
+        "send": 0
+    },
+    {
+        "word": "CREDENCE",
+        "meaning": "ACCEPTANCE OF SOMETHING AS TRUE",
+        "send": 0
+    },
+    {
+        "word": "CREDO",
+        "meaning": "STATEMENT OF BELIEF OR PRINCIPLE; CREED",
+        "send": 0
+    },
+    {
+        "word": "DAUNT",
+        "meaning": "TO DISCOURAGE; INTIMIDATE; DISHEARTEN",
+        "send": 0
+    },
+    {
+        "word": "DEARTH",
+        "meaning": "SCARCITY",
+        "send": 0
+    },
+    {
+        "word": "DEBAUCHERY",
+        "meaning": "CORRUPTION",
+        "send": 0
+    },
+    {
+        "word": "DECORUM",
+        "meaning": "PROPER BEHAVIOR",
+        "send": 0
+    },
+    {
+        "word": "DEFAME",
+        "meaning": "TO MALIGN; HARM SOMEONE'S REPUTATION",
+        "send": 0
+    },
+    {
+        "word": "DEFAULT",
+        "meaning": "TO FAIL TO ACT",
+        "send": 0
+    },
+    {
+        "word": "DEFERENCE",
+        "meaning": "RESPECT; REGARD FOR ANOTHER'S WISH",
+        "send": 0
+    },
+    {
+        "word": "DEFUNCT",
+        "meaning": "NO LONGER EXISTING",
+        "send": 0
+    },
+    {
+        "word": "DELINEATE",
+        "meaning": "TO REPRESENT OR DEPICT",
+        "send": 0
+    },
+    {
+        "word": "DEMOGRAPHIC",
+        "meaning": "RELATED TO POPULATION BALANCE",
+        "send": 0
+    },
+    {
+        "word": "DEMOTIC",
+        "meaning": "PERTAINING TO PEOPLE",
+        "send": 0
+    },
+    {
+        "word": "DEMUR",
+        "meaning": "TO EXPRESS DOUBT",
+        "send": 0
+    },
+    {
+        "word": "DENIGRATE",
+        "meaning": "TO SLUR SOMEONE'S REPUTATION",
+        "send": 0
+    },
+    {
+        "word": "DENIZEN",
+        "meaning": "AN INHABITANT; A REGULAR VISITOR",
+        "send": 0
+    },
+    {
+        "word": "DENOUEMENT",
+        "meaning": "OUTCOME; UNRAVELING OF THE PLOT OF A PLAY OR WORK OF LITERATURE",
+        "send": 0
+    },
+    {
+        "word": "DERIDE",
+        "meaning": "TO MOCK",
+        "send": 0
+    },
+    {
+        "word": "DERIVATIVE",
+        "meaning": "SOMETHING DERIVED; UNORIGINAL",
+        "send": 0
+    },
+    {
+        "word": "DESICCATE",
+        "meaning": "TO DRY COMPLETELY",
+        "send": 0
+    },
+    {
+        "word": "DESUETUDE",
+        "meaning": "STATE OF DISUSE",
+        "send": 0
+    },
+    {
+        "word": "DESULTORY",
+        "meaning": "RANDOM; DISCONNECTED; RAMBLING",
+        "send": 0
+    },
+    {
+        "word": "DETERRENT",
+        "meaning": "SOMETHING THAT DISCOURAGES OR HINDERS",
+        "send": 0
+    },
+    {
+        "word": "DETRACTION",
+        "meaning": "THE ACT OF TAKING AWAY; DEROGATORY COMMENT ON A PERSON'S CHARACTER",
+        "send": 0
+    },
+    {
+        "word": "DIAPHANOUS",
+        "meaning": "TRANSPARENT; FINE-TEXTURED; INSUBSTANTIAL; VAGUE",
+        "send": 0
+    },
+    {
+        "word": "DIATRIBE",
+        "meaning": "BITTER VERBAL ATTACK",
+        "send": 0
+    },
+    {
+        "word": "DICHOTOMY",
+        "meaning": "DIVISION INTO TWO USUALLY CONTRADICTORY PARTS",
+        "send": 0
+    },
+    {
+        "word": "DIFFIDENCE",
+        "meaning": "SHYNESS; LACK OF CONFIDENCE",
+        "send": 0
+    },
+    {
+        "word": "DIFFUSE",
+        "meaning": "V. TO SPREAD OUT, ADJ. WORDY; RAMBLING; SPREAD OUT",
+        "send": 0
+    },
+    {
+        "word": "DIGRESSION",
+        "meaning": "ACT OF STRAYING FROM THE MAIN POINT",
+        "send": 0
+    },
+    {
+        "word": "DIRGE",
+        "meaning": "FUNERAL HYMN",
+        "send": 0
+    },
+    {
+        "word": "DISABUSE",
+        "meaning": "TO FREE FROM MISCONCEPTION",
+        "send": 0
+    },
+    {
+        "word": "DISCERNING",
+        "meaning": "PERCEPTIVE; EXHIBITING KEEN INSIGHT AND GOOD JUDGMENT",
+        "send": 0
+    },
+    {
+        "word": "DISCOMFIT",
+        "meaning": "TO MAKE UNEASY; DISCONCERT",
+        "send": 0
+    },
+    {
+        "word": "DISCORDANT",
+        "meaning": "NOT IN TUNE",
+        "send": 0
+    },
+    {
+        "word": "DISCREDIT",
+        "meaning": "TO DISHONOR; DISGRACE; CAUSE TO BE DOUBTED",
+        "send": 0
+    },
+    {
+        "word": "DISCREPANCY",
+        "meaning": "DIFFERENCE BETWEEN",
+        "send": 0
+    },
+    {
+        "word": "DISCRETE",
+        "meaning": "CONSTITUTING A SEPARATE THING; DISTINCT",
+        "send": 0
+    },
+    {
+        "word": "DISCRETION",
+        "meaning": "QUALITY OF SHOWING SELF-RESTRAINT IN SPEECH OR ACTIONS; CIRCUMSPECTION; FREEDOM TO ACT ON ONE'S OWN",
+        "send": 0
+    },
+    {
+        "word": "DISINGENUOUS",
+        "meaning": "NOT CANDID; CRAFTY",
+        "send": 0
+    },
+    {
+        "word": "DISINTERESTED",
+        "meaning": "UNPREJUDICED; OBJECTION",
+        "send": 0
+    },
+    {
+        "word": "DISJOINTED",
+        "meaning": "LACKING ORDER OR COHERENCE; DISLOCATED",
+        "send": 0
+    },
+    {
+        "word": "DISMISS",
+        "meaning": "PUT AWAY FROM CONSIDERATION; REJECT",
+        "send": 0
+    },
+    {
+        "word": "DISPARAGE",
+        "meaning": "TO BELITTLE",
+        "send": 0
+    },
+    {
+        "word": "DISPARATE",
+        "meaning": "DISSIMILAR",
+        "send": 0
+    },
+    {
+        "word": "DISSEMBLE",
+        "meaning": "TO PRETEND; DISGUISE ONE'S MOTINVES",
+        "send": 0
+    },
+    {
+        "word": "DISSEMINATE",
+        "meaning": "TO SPREAD; SCATTER; DISPERSE",
+        "send": 0
+    },
+    {
+        "word": "DISSIDENT",
+        "meaning": "PERSON WHO DISAGREES ABOUT BELIEF, ETC.",
+        "send": 0
+    },
+    {
+        "word": "DISSOLUTION",
+        "meaning": "DISINTEGRATION; DEBAUCHERY",
+        "send": 0
+    },
+    {
+        "word": "DISSONANCE",
+        "meaning": "DISCORD; LACK OF HARMONY",
+        "send": 0
+    },
+    {
+        "word": "DISTEND",
+        "meaning": "TO EXPAND; SWELL OUT",
+        "send": 0
+    },
+    {
+        "word": "DISTILL",
+        "meaning": "EXTRACT THE ESSENTIAL ELEMENTS",
+        "send": 0
+    },
+    {
+        "word": "DISTRAIT",
+        "meaning": "INATTENTIVE; PREOCCUPIED",
+        "send": 0
+    },
+    {
+        "word": "DIVERGE",
+        "meaning": "TO VARY; GO IN DIFFERENT DIRECTIONS FROM THE SAME POINT",
+        "send": 0
+    },
+    {
+        "word": "DIVEST",
+        "meaning": "TO STRIP; DEPRIVE; RID",
+        "send": 0
+    },
+    {
+        "word": "DIVULGE",
+        "meaning": "TO MAKE KNOWN SOMETHING THAT IS SECRET",
+        "send": 0
+    },
+    {
+        "word": "DOCTRINAIRE",
+        "meaning": "RELATING TO A PERSON WHO CANNOT COMPROMISE ABOUT POINTS OF A THEORY OR DOCTRINE; DOGMATIC; UNYIELDING",
+        "send": 0
+    },
+    {
+        "word": "DOCUMENT",
+        "meaning": "TO PROVIDE WITH WRITTEN EVIDENCE TO SUPPORT",
+        "send": 0
+    },
+    {
+        "word": "DOGGEREL",
+        "meaning": "POOR VERSE",
+        "send": 0
+    },
+    {
+        "word": "DOGMATIC",
+        "meaning": "STATING OPINIONS WITHOUT PROOF",
+        "send": 0
+    },
+    {
+        "word": "DORMANT",
+        "meaning": "INACTIVE",
+        "send": 0
+    },
+    {
+        "word": "DROSS",
+        "meaning": "WASTE; WORTHLESS MATTER; TRIVIAL MATTER",
+        "send": 0
+    },
+    {
+        "word": "DUPE",
+        "meaning": "TO DECEIVE; TRICK",
+        "send": 0
+    },
+    {
+        "word": "EBULLIENT",
+        "meaning": "EXHILARATED; ENTHUSIASTIC",
+        "send": 0
+    },
+    {
+        "word": "ECLECTIC",
+        "meaning": "SELECTING FROM VARIOUS SOURCES",
+        "send": 0
+    },
+    {
+        "word": "EFFERVESCENCE",
+        "meaning": "STATE OF HIGH SPIRITS OR LIVELINESS; THE PROCESS OF BUBBLING AS GAS ESCAPES",
+        "send": 0
+    },
+    {
+        "word": "EFFETE",
+        "meaning": "DEPLETED OF VITALITY; OVERREFINED; DECADENT",
+        "send": 0
+    },
+    {
+        "word": "EFFICACY",
+        "meaning": "EFFICIENCY; EFFECTIVENESS",
+        "send": 0
+    },
+    {
+        "word": "EFFRONTERY",
+        "meaning": "SHAMELESS BOLDNESS; PRESUMPTUOUSNESS",
+        "send": 0
+    },
+    {
+        "word": "EGOISM",
+        "meaning": "THE TENDENCY TO SEE THING IN RELATION TO ONESELF; SELF-CENTERED",
+        "send": 0
+    },
+    {
+        "word": "EGOTISTICAL",
+        "meaning": "EXCESSIVELY SELF-CENTERED; CONCEITED",
+        "send": 0
+    },
+    {
+        "word": "ELEGY",
+        "meaning": "POEM OR SONG EXPRESSING LAMENTATION",
+        "send": 0
+    },
+    {
+        "word": "ELICIT",
+        "meaning": "TO PROVOKE; DRAW OUT",
+        "send": 0
+    },
+    {
+        "word": "ELIXIR",
+        "meaning": "A SUBSTANCE BELIEVED TO HAVE THE POWER TO CURE ILLS",
+        "send": 0
+    },
+    {
+        "word": "ELYSIAN",
+        "meaning": "BLISSFUL; DELIGHTFUL",
+        "send": 0
+    },
+    {
+        "word": "EMACIATED",
+        "meaning": "THIN AND WASTED",
+        "send": 0
+    },
+    {
+        "word": "EMBELLISH",
+        "meaning": "TO ADORN; DECORATE; ENHANCE; MAKE MORE ATTRACTIVE BY ADDING DETAILS",
+        "send": 0
+    },
+    {
+        "word": "EMOLLIENT",
+        "meaning": "ADJ. SOOTHING; MOLLIFYING, N. AN AGENT THAT SOOTHES OR MAKES MORE ACCEPTABLE",
+        "send": 0
+    },
+    {
+        "word": "EMPIRICAL",
+        "meaning": "DERIVED OBSERVATION AND EXPERIMENT",
+        "send": 0
+    },
+    {
+        "word": "EMULATE",
+        "meaning": "TO IMITATE; COPY",
+        "send": 0
+    },
+    {
+        "word": "ENCOMIUM",
+        "meaning": "A FORMAL EXPRESSION OF PRAISE",
+        "send": 0
+    },
+    {
+        "word": "ENDEMIC",
+        "meaning": "INHERENT; BELONGING TO AN AREA",
+        "send": 0
+    },
+    {
+        "word": "ENERVATE",
+        "meaning": "TO WEAKEN",
+        "send": 0
+    },
+    {
+        "word": "ENGENDER",
+        "meaning": "TO CAUSE; PRODUCE",
+        "send": 0
+    },
+    {
+        "word": "ENHANCE",
+        "meaning": "TO INCREASE; IMPROVE",
+        "send": 0
+    },
+    {
+        "word": "ENTOMOLOGY",
+        "meaning": "THE SCIENTIFIC STUDY OF INSECTS",
+        "send": 0
+    },
+    {
+        "word": "ENUCIATE",
+        "meaning": "TO PRONOUNCE CLEARLY",
+        "send": 0
+    },
+    {
+        "word": "EPHEMERAL",
+        "meaning": "SHORT-LIVED; FLEETING",
+        "send": 0
+    },
+    {
+        "word": "EPISTEMOLOGY",
+        "meaning": "BRANCH OF PHILOSOPHY THAT EXAMINES THE NATURE OF KNOWLEDGE",
+        "send": 0
+    },
+    {
+        "word": "EQUABLE",
+        "meaning": "STEADY; UNVARYING; SERENE",
+        "send": 0
+    },
+    {
+        "word": "EQUANIMITY",
+        "meaning": "COMPOSURE; CALMNESS",
+        "send": 0
+    },
+    {
+        "word": "EQUIVOCATION",
+        "meaning": "TO INTENTIONALLY USE VAGUE LANGUAGE",
+        "send": 0
+    },
+    {
+        "word": "ERRANT",
+        "meaning": "MISTAKEN; STRAYING FROM THE PROPER COURSE",
+        "send": 0
+    },
+    {
+        "word": "ERUDITE",
+        "meaning": "LEARNED; SCHOLARLY",
+        "send": 0
+    },
+    {
+        "word": "ESOTERIC",
+        "meaning": "HARD TO UNDERSTAND; KNOWN ONLY TO A FEW",
+        "send": 0
+    },
+    {
+        "word": "ESSAY",
+        "meaning": "TO MAKE AN ATTEMPT; SUBJECT TO A TEST",
+        "send": 0
+    },
+    {
+        "word": "ESTIMABLE",
+        "meaning": "ADMIRABLE; POSSIBLE TO ESTIMATE",
+        "send": 0
+    },
+    {
+        "word": "ETHNOCENTRIC",
+        "meaning": "BASED ON THE ATTITUDE THAT ONE'S GROUP IS SUPERIOR",
+        "send": 0
+    },
+    {
+        "word": "ETIOLOGY",
+        "meaning": "CAUSES OR ORIGINS",
+        "send": 0
+    },
+    {
+        "word": "ETYMOLOGY",
+        "meaning": "ORIGIN AND HISTORY OF A WORD",
+        "send": 0
+    },
+    {
+        "word": "EUGENICS",
+        "meaning": "STUDY OF FACTORS THAT INFLUENCE THE HEREDITARY QUALITIES OF THE HUMAN RACE AND WAYS TO IMPROVE THESE QUALITIES",
+        "send": 0
+    },
+    {
+        "word": "EULOGY",
+        "meaning": "HIGH PRAISE, ESPECIALLY OF A PERSON WHO HAS RECENTLY DIED",
+        "send": 0
+    },
+    {
+        "word": "EUPHEMISM",
+        "meaning": "USE OF AGREEABLE OR INOFFENSIVE LANGUAGE IN PLACE OF UNPLEASANT OR OFFENSIVE LANGUAGE",
+        "send": 0
+    },
+    {
+        "word": "EUPHORIA",
+        "meaning": "A FEELING OF EXTREME HAPPINESS",
+        "send": 0
+    },
+    {
+        "word": "EUTHANASIA",
+        "meaning": "MERCY KILLING",
+        "send": 0
+    },
+    {
+        "word": "EVINCE",
+        "meaning": "TO SHOW PLAINLY; BE AN INDICATION OF",
+        "send": 0
+    },
+    {
+        "word": "EVOCATIVE",
+        "meaning": "TENDING TO CALL TO MIND OR PRODUCE A REACTION",
+        "send": 0
+    },
+    {
+        "word": "EXACERBATE",
+        "meaning": "TO AGGRAVATE; MAKE WORSE",
+        "send": 0
+    },
+    {
+        "word": "EXACT",
+        "meaning": "V. TO FORCE THE PAYMENT OF; DEMAND AND OBTAIN BY AUTHORITY, ADJ. EXTREMELY DEMANDING (EXACTING)",
+        "send": 0
+    },
+    {
+        "word": "EXCULPATE",
+        "meaning": "TO CLEAR OF BLAME; VINDICATE",
+        "send": 0
+    },
+    {
+        "word": "EXECRABLE",
+        "meaning": "DETESTABLE; ABHORRENT",
+        "send": 0
+    },
+    {
+        "word": "EXHORT",
+        "meaning": "TO URGE BY STRONG APPEALS",
+        "send": 0
+    },
+    {
+        "word": "EXIGENCY",
+        "meaning": "CRISIS; URGENT REQUIREMENTS",
+        "send": 0
+    },
+    {
+        "word": "EXISTENTIAL",
+        "meaning": "HAVING TO DO WITH EXISTENCE; BASED ON EXPERIENCE; HAVING TO DO WITH THE PHILOSOPHY OF EXISTENTIALISM",
+        "send": 0
+    },
+    {
+        "word": "EXORCISE",
+        "meaning": "TO EXPEL EVIL SPIRITS; FREE FROM BAD INFLUENCES",
+        "send": 0
+    },
+    {
+        "word": "EXPATIATE",
+        "meaning": "TO SPEAK OR WRITE AT LENGTH",
+        "send": 0
+    },
+    {
+        "word": "EXPATRIATE",
+        "meaning": "TO SEND INTO EXILE",
+        "send": 0
+    },
+    {
+        "word": "EXPIATE",
+        "meaning": "TO ATONE FOR",
+        "send": 0
+    },
+    {
+        "word": "EXPLICATE",
+        "meaning": "TO EXPLAIN; INTERPRET; CLARIFY",
+        "send": 0
+    },
+    {
+        "word": "EXPOSITORY",
+        "meaning": "EXPLANATORY",
+        "send": 0
+    },
+    {
+        "word": "EXTANT",
+        "meaning": "IN EXISTENCE; NOT LOST",
+        "send": 0
+    },
+    {
+        "word": "EXTEMPORANEOUS",
+        "meaning": "UNREHEARSED",
+        "send": 0
+    },
+    {
+        "word": "EXTIRPATE",
+        "meaning": "TO ROOT UP; TO DESTROY",
+        "send": 0
+    },
+    {
+        "word": "EXTRANEOUS",
+        "meaning": "NOT ESSENTIAL",
+        "send": 0
+    },
+    {
+        "word": "EXTRAPOLATION",
+        "meaning": "THE ACT OF ESTIMATION BY PROJECTING KNOWN INFORMATION",
+        "send": 0
+    },
+    {
+        "word": "EXTRINSIC",
+        "meaning": "NOT INHERENT OR ESSENTIAL",
+        "send": 0
+    },
+    {
+        "word": "FACETIOUS",
+        "meaning": "HUMOROUS",
+        "send": 0
+    },
+    {
+        "word": "FACILITATE",
+        "meaning": "TO MAKE LESS DIFFICULT",
+        "send": 0
+    },
+    {
+        "word": "FACTOTUM",
+        "meaning": "A PERSON WHO DOES ALL SORTS OF WORK; A HANDYMAN",
+        "send": 0
+    },
+    {
+        "word": "FALLACIOUS",
+        "meaning": "BASED ON A FALSE IDEA OR FACT; MISLEADING",
+        "send": 0
+    },
+    {
+        "word": "FALLOW",
+        "meaning": "PLOWED BUT NOT SOWED; UNCULTIVATED",
+        "send": 0
+    },
+    {
+        "word": "FATUOUS",
+        "meaning": "FOOLISHLY SELF-SATISFIED",
+        "send": 0
+    },
+    {
+        "word": "FAUNA",
+        "meaning": "ANIMALS OF A PERIOD OR REGION",
+        "send": 0
+    },
+    {
+        "word": "FAWNING",
+        "meaning": "SEEKING FAVOR BY FLATTERY",
+        "send": 0
+    },
+    {
+        "word": "FELICITOUS",
+        "meaning": "SUITABLY EXPRESSED; APPROPRIATE; WELL-CHOSEN",
+        "send": 0
+    },
+    {
+        "word": "FERAL",
+        "meaning": "EXISTING IN A WILD OR UNTAMED STATE",
+        "send": 0
+    },
+    {
+        "word": "FERVOR",
+        "meaning": "N. WARMTH AND INTENSITY OF EMOTION, ADJ. FULL OF STRONG EMOTION OR IMPASSIONED (FERVENT)",
+        "send": 0
+    },
+    {
+        "word": "FETID",
+        "meaning": "HAVING A BAD SMELL",
+        "send": 0
+    },
+    {
+        "word": "FETTER",
+        "meaning": "V. TO BIND; CONFINE, N. SOMETHING THAT RESTRICTS OR RESTRAINS",
+        "send": 0
+    },
+    {
+        "word": "FIAT",
+        "meaning": "ARBITRARY ORDER; AUTHORIZATION",
+        "send": 0
+    },
+    {
+        "word": "FIDELITY",
+        "meaning": "LOYALTY; EXACT CORRESPONDENCE",
+        "send": 0
+    },
+    {
+        "word": "FILIBUSTER",
+        "meaning": "USE OF OBSTRUCTIVE TACTICS IN A LEGISLATURE TO BLOCK PASSAGE OF A LAW",
+        "send": 0
+    },
+    {
+        "word": "FINESSE",
+        "meaning": "TO HANDLE WITH A DECEPTIVE OR EVASIVE STRATEGY; TO USE FINESSE, THAT IS, REFINEMENT IN PERFORMANCE",
+        "send": 0
+    },
+    {
+        "word": "FISSURE",
+        "meaning": "CREVICE",
+        "send": 0
+    },
+    {
+        "word": "FLAG",
+        "meaning": "TO DROOP; GROW WEAK",
+        "send": 0
+    },
+    {
+        "word": "FLEDGLING",
+        "meaning": "BEGINNER; NOVICE",
+        "send": 0
+    },
+    {
+        "word": "FLORA",
+        "meaning": "PLANTS OF A REGION OR ERA",
+        "send": 0
+    },
+    {
+        "word": "FLORID",
+        "meaning": "RUDDY; REDDISH; FLOWERY",
+        "send": 0
+    },
+    {
+        "word": "FLOURISH",
+        "meaning": "N. AN EMBELLISHMENT OR ORNAMENTATION, V. MEANING TO GROW VIGOROUSLY, OR TO THRIVE",
+        "send": 0
+    },
+    {
+        "word": "FLOUT",
+        "meaning": "TO TREAT SCORNFULLY",
+        "send": 0
+    },
+    {
+        "word": "FLUX",
+        "meaning": "FLOWING; A CONTINUOUS MOVING",
+        "send": 0
+    },
+    {
+        "word": "FOMENT",
+        "meaning": "TO INCITE; AROUSE",
+        "send": 0
+    },
+    {
+        "word": "FORBEARANCE",
+        "meaning": "PATIENCE",
+        "send": 0
+    },
+    {
+        "word": "FORESTALL",
+        "meaning": "TO PREVENT; DELAY",
+        "send": 0
+    },
+    {
+        "word": "FORMIDABLE",
+        "meaning": "MENACING; THREATENING",
+        "send": 0
+    },
+    {
+        "word": "FORSWEAR",
+        "meaning": "RENOUNCE; REPUDIATE",
+        "send": 0
+    },
+    {
+        "word": "FOUNDER",
+        "meaning": "TO SINK; FAIL; COLLAPSE",
+        "send": 0
+    },
+    {
+        "word": "FRACAS",
+        "meaning": "A LOUD QUARREL; BRAWL",
+        "send": 0
+    },
+    {
+        "word": "FRACTIOUS",
+        "meaning": "QUARRELSOME; UNRULY; REBELLIOUS",
+        "send": 0
+    },
+    {
+        "word": "FRESCO",
+        "meaning": "A PAINTING DONE ON PLASTER",
+        "send": 0
+    },
+    {
+        "word": "FRIEZE",
+        "meaning": "ORNAMENTAL BAND ON A WALL",
+        "send": 0
+    },
+    {
+        "word": "FROWARD",
+        "meaning": "STUBBORNLY CONTRARY; OBSTINATELY DISOBEDIENT",
+        "send": 0
+    },
+    {
+        "word": "FRUGALITY",
+        "meaning": "THRIFT",
+        "send": 0
+    },
+    {
+        "word": "FULMINATE",
+        "meaning": "TO ATTACK LOUDLY; DENOUNCE",
+        "send": 0
+    },
+    {
+        "word": "FULSOME",
+        "meaning": "SO EXCESSIVE AS TO BE DISGUSTING",
+        "send": 0
+    },
+    {
+        "word": "FUSION",
+        "meaning": "UNION; SYNTHESIS",
+        "send": 0
+    },
+    {
+        "word": "FUTILE",
+        "meaning": "INEFFECTIVE; USELESS; FRUITLESS",
+        "send": 0
+    },
+    {
+        "word": "GAINSAY",
+        "meaning": "TO DENY; DISPUTE; OPPOSE",
+        "send": 0
+    },
+    {
+        "word": "GAMBOL",
+        "meaning": "TO FROLIC; LEAP PLAYFULLY",
+        "send": 0
+    },
+    {
+        "word": "GARRULOUS",
+        "meaning": "VERY TALKATIVE; WORDY",
+        "send": 0
+    },
+    {
+        "word": "GAUCHE",
+        "meaning": "COARSE AND UNCOUTH; CLUMSY",
+        "send": 0
+    },
+    {
+        "word": "GENIALITY",
+        "meaning": "CHEERFULNESS; KINDLINESS; SOCIABILITY",
+        "send": 0
+    },
+    {
+        "word": "GERRYMANDER",
+        "meaning": "TO DIVIDE AN AREA INTO VOTING DISTRICTS IN A WAY THAT FAVORS A POLITICAL PARTY",
+        "send": 0
+    },
+    {
+        "word": "GLIB",
+        "meaning": "FLUENT IN AN INSINCERE WAY; OFFHAND",
+        "send": 0
+    },
+    {
+        "word": "GOAD",
+        "meaning": "TO PROD; URGE ON",
+        "send": 0
+    },
+    {
+        "word": "GOSSAMER",
+        "meaning": "SHEER; LIGHT AND DELICATE, LIKE COBWEBS",
+        "send": 0
+    },
+    {
+        "word": "GOUGE",
+        "meaning": "TO TEAR OUT; SCOOP OUT; OVERCHARGE",
+        "send": 0
+    },
+    {
+        "word": "GRANDILOQUENT",
+        "meaning": "POMPOUS; BOMBASTIC",
+        "send": 0
+    },
+    {
+        "word": "GREGARIOUS",
+        "meaning": "SOCIABLE",
+        "send": 0
+    },
+    {
+        "word": "GROUSE",
+        "meaning": "TO COMPLAIN",
+        "send": 0
+    },
+    {
+        "word": "GUILELESS",
+        "meaning": "FREE OF CUNNING OR DECEIT; ARTLESS",
+        "send": 0
+    },
+    {
+        "word": "GUISE",
+        "meaning": "OUTWARD APPEARANCE; FALSE APPEARANCE; PRETENSE",
+        "send": 0
+    },
+    {
+        "word": "GULLIBLE",
+        "meaning": "EASILY DECEIVED",
+        "send": 0
+    },
+    {
+        "word": "GUSTATORY",
+        "meaning": "AFFECTING THE SENSE OF TASTE",
+        "send": 0
+    },
+    {
+        "word": "HALCYON",
+        "meaning": "CALM AND PEACEFUL; HAPPY; GOLDEN; PROSPEROUS",
+        "send": 0
+    },
+    {
+        "word": "HALLOWED",
+        "meaning": "HOLY; SACRED",
+        "send": 0
+    },
+    {
+        "word": "HARANGUE",
+        "meaning": "LONG, POMPOUS SPEECH; TIRADE",
+        "send": 0
+    },
+    {
+        "word": "HARROWING",
+        "meaning": "EXTREMELY DISTRESSING; TERRIFYING",
+        "send": 0
+    },
+    {
+        "word": "HERBIVOROUS",
+        "meaning": "RELATING TO A HERBIVORE, AN ANIMAL THAT FEEDS MAINLY ON PLANTS",
+        "send": 0
+    },
+    {
+        "word": "HERMETIC",
+        "meaning": "TIGHTLY SEALED; MAGICAL",
+        "send": 0
+    },
+    {
+        "word": "HETERODOX",
+        "meaning": "UNORTHODOX; NOT WIDELY ACCEPTED",
+        "send": 0
+    },
+    {
+        "word": "HIEROGLYPHICS",
+        "meaning": "A SYSTEM OF WRITING IN WHICH PICTORIAL SYMBOLS REPRESENT MEANING OR SOUNDS; WRITING OR SYMBOLS THAT ARE DIFFICULT TO DECIPHER; THE SYMBOLS USED IN ADVANCED MATHEMATICS",
+        "send": 0
+    },
+    {
+        "word": "HIRSUTE",
+        "meaning": "COVERED WITH HAIR",
+        "send": 0
+    },
+    {
+        "word": "HISTRIONIC",
+        "meaning": "RELATING TO EXAGGERATED EMOTIONAL BEHAVIOR CALCULATED FOR EFFECT; THEATRICAL ARTS OR PERFORMANCES",
+        "send": 0
+    },
+    {
+        "word": "HOMEOSTASIS",
+        "meaning": "AUTOMATIC MAINTENANCE BY AN ORGANISM OF NORMAL TEMPERATURE, CHEMICAL BALANCE, ETC. WITHIN ITSELF",
+        "send": 0
+    },
+    {
+        "word": "HOMILY",
+        "meaning": "SERMON; TEDIOUS MORALIZING LECTURE; PLATITUDE",
+        "send": 0
+    },
+    {
+        "word": "HOMOGENEOUS",
+        "meaning": "COMPOSED OF IDENTICAL PARTS; UNIFORM IN COMPOSITION",
+        "send": 0
+    },
+    {
+        "word": "HYPERBOLE",
+        "meaning": "PURPOSEFUL EXAGGERATION FOR EFFECT",
+        "send": 0
+    },
+    {
+        "word": "ICONOCLASTIC",
+        "meaning": "ATTACKING CHERISHED TRADITION",
+        "send": 0
+    },
+    {
+        "word": "IDOLATRY",
+        "meaning": "IDOL WORSHIP; BLIND OR EXCESSIVE DEVOTION",
+        "send": 0
+    },
+    {
+        "word": "IGNEOUS",
+        "meaning": "PRODUCED BY FIRE; VOLCANIC",
+        "send": 0
+    },
+    {
+        "word": "IMBROGLIO",
+        "meaning": "COMPLICATED SITUATION; AN ENTANGLEMENT",
+        "send": 0
+    },
+    {
+        "word": "IMMUTABLE",
+        "meaning": "UNCHANGEABLE",
+        "send": 0
+    },
+    {
+        "word": "IMPAIR",
+        "meaning": "TO DAMAGE; INJURE",
+        "send": 0
+    },
+    {
+        "word": "IMPASSIVE",
+        "meaning": "SHOWING NO EMOTION",
+        "send": 0
+    },
+    {
+        "word": "IMPECUNIOUS",
+        "meaning": "POOR; HAVING NO MONEY",
+        "send": 0
+    },
+    {
+        "word": "IMPEDE",
+        "meaning": "TO HINDER; BLOCK",
+        "send": 0
+    },
+    {
+        "word": "IMPERMEABLE",
+        "meaning": "IMPOSSIBLE TO PENETRATE",
+        "send": 0
+    },
+    {
+        "word": "IMPERTURBABLE",
+        "meaning": "NOT EASILY DISTURBED",
+        "send": 0
+    },
+    {
+        "word": "IMPERVIOUS",
+        "meaning": "IMPOSSIBLE TO PENETRATE; INCAPABLE OF BEING AFFECTED",
+        "send": 0
+    },
+    {
+        "word": "IMPINGE",
+        "meaning": "TO STRIKE; ENCROACH",
+        "send": 0
+    },
+    {
+        "word": "IMPLACABLE",
+        "meaning": "INFLEXIBLE; INCAPABLE OF BEING PLEASED",
+        "send": 0
+    },
+    {
+        "word": "IMPLAUSIBLE",
+        "meaning": "UNLIKELY; UNBELIEVABLE",
+        "send": 0
+    },
+    {
+        "word": "IMPLICIT",
+        "meaning": "IMPLIED; UNDERSTOOD BUT NOT STATED",
+        "send": 0
+    },
+    {
+        "word": "IMPLODE",
+        "meaning": "COLLAPSE INWARD VIOLENTLY",
+        "send": 0
+    },
+    {
+        "word": "IMPRECATION",
+        "meaning": "CURSE",
+        "send": 0
+    },
+    {
+        "word": "IMPUTE",
+        "meaning": "TO RELATE TO A PARTICULAR CAUSE OR SOURCE; ATTRIBUTE THE FAULT TO; ASSIGN AS A CHARACTERISTIC",
+        "send": 0
+    },
+    {
+        "word": "INADVERTENTLY",
+        "meaning": "CARELESSLY; UNINTENTIONALLY",
+        "send": 0
+    },
+    {
+        "word": "INCARNATE",
+        "meaning": "HAVING BODILY FORM",
+        "send": 0
+    },
+    {
+        "word": "INCHOATE",
+        "meaning": "IMPERFECTLY FORMED OR FORMULATED",
+        "send": 0
+    },
+    {
+        "word": "INCONGRUITY",
+        "meaning": "STATE OF NOT FITTING",
+        "send": 0
+    },
+    {
+        "word": "INCONSEQUENTIAL",
+        "meaning": "INSIGNIFICANT; UNIMPORTANT",
+        "send": 0
+    },
+    {
+        "word": "INCORPORATE",
+        "meaning": "INTRODUCE SOMETHING INTO ANOTHER THING ALREADY IN EXISTENCE; COMBINE",
+        "send": 0
+    },
+    {
+        "word": "INCURSION",
+        "meaning": "SUDDEN INVASION",
+        "send": 0
+    },
+    {
+        "word": "INDETERMINATE",
+        "meaning": "UNCERTAIN; INDEFINITE",
+        "send": 0
+    },
+    {
+        "word": "INDIGENCE",
+        "meaning": "POVERTY",
+        "send": 0
+    },
+    {
+        "word": "INDOLENT",
+        "meaning": "HABITUALLY LAZY; IDLE",
+        "send": 0
+    },
+    {
+        "word": "INELUCTABLE",
+        "meaning": "NOT TO BE AVOIDED OR ESCAPED; INEVITABLE",
+        "send": 0
+    },
+    {
+        "word": "INERT",
+        "meaning": "UNABLE TO MOVE; SLUGGISH",
+        "send": 0
+    },
+    {
+        "word": "INGENUOUS",
+        "meaning": "NAIVE AND TRUSTING; LACKING SOPHISTICATION",
+        "send": 0
+    },
+    {
+        "word": "INHERENT",
+        "meaning": "FIRMLY ESTABLISHED BY NATURE OR HABIT",
+        "send": 0
+    },
+    {
+        "word": "INNOCUOUS",
+        "meaning": "HARMLESS",
+        "send": 0
+    },
+    {
+        "word": "INSENSIBLE",
+        "meaning": "UNCONSCIOUS; UNRESPONSIVE",
+        "send": 0
+    },
+    {
+        "word": "INSINUATE",
+        "meaning": "TO SUGGEST; SAY INDIRECTLY; IMPLY",
+        "send": 0
+    },
+    {
+        "word": "INSIPID",
+        "meaning": "LACKING IN FLAVOR; DULL",
+        "send": 0
+    },
+    {
+        "word": "INSOUCIANT",
+        "meaning": "INDIFFERENT; LACKING CONCERN OR CARE",
+        "send": 0
+    },
+    {
+        "word": "INSULARITY",
+        "meaning": "NARROW-MINDEDNESS; ISOLATION",
+        "send": 0
+    },
+    {
+        "word": "INSUPERABLE",
+        "meaning": "INSURMOUNTABLE; UNCONQUERABLE",
+        "send": 0
+    },
+    {
+        "word": "INTANGIBLE",
+        "meaning": "NOT MATERIAL",
+        "send": 0
+    },
+    {
+        "word": "INTERDICT",
+        "meaning": "TO FORBID; PROHIBIT; TO CONFRONT AND HALT THE ACTIVITIES, ADVANCE, OR ENTRY OF",
+        "send": 0
+    },
+    {
+        "word": "INTERNECINE",
+        "meaning": "DEADLY TO BOTH SIDES",
+        "send": 0
+    },
+    {
+        "word": "INTERPOLATE",
+        "meaning": "TO INSERT; CHANGE BY ADDING NEW WORDS OR MATERIAL",
+        "send": 0
+    },
+    {
+        "word": "INTERREGNUM",
+        "meaning": "INTERVAL BETWEEN REIGNS; GAP IN CONTINUITY",
+        "send": 0
+    },
+    {
+        "word": "INTIMATE",
+        "meaning": "MARKED BY CLOSE ACQUAINTANCE",
+        "send": 0
+    },
+    {
+        "word": "INTRACTABLE",
+        "meaning": "NOT EASILY MANAGED",
+        "send": 0
+    },
+    {
+        "word": "INTRANSIGENCE",
+        "meaning": "STUBBORNNESS; REFUSAL TO COMPROMISE",
+        "send": 0
+    },
+    {
+        "word": "INTROSPECTIVE",
+        "meaning": "CONTEMPLATING ONE'S OWN THOUGHTS AND FEELINGS",
+        "send": 0
+    },
+    {
+        "word": "INUNDATE",
+        "meaning": "TO COVER WITH WATER; OVERWHELM",
+        "send": 0
+    },
+    {
+        "word": "INURED",
+        "meaning": "HARDENED; ACCUSTOMED; USED TO",
+        "send": 0
+    },
+    {
+        "word": "INVECTIVE",
+        "meaning": "VERBAL ABUSE",
+        "send": 0
+    },
+    {
+        "word": "INVEIGH",
+        "meaning": "TO DISAPPROVE; PROTEST VEHEMENTLY",
+        "send": 0
+    },
+    {
+        "word": "INVEIGLE",
+        "meaning": "TO WIN OVER BY FLATTERY OR COAXING",
+        "send": 0
+    },
+    {
+        "word": "INVETERATE",
+        "meaning": "CONFIRMED; LONG-STANDING; DEEPLY ROOTED",
+        "send": 0
+    },
+    {
+        "word": "INVIDIOUS",
+        "meaning": "LIKELY TO PROVOKE ILL WILL; OFFENSIVE",
+        "send": 0
+    },
+    {
+        "word": "IRASCIBLE",
+        "meaning": "EASILY ANGERED",
+        "send": 0
+    },
+    {
+        "word": "IRRESOLUTE",
+        "meaning": "UNSURE OF HOW TO ACT; WEAK",
+        "send": 0
+    },
+    {
+        "word": "ITINERANT",
+        "meaning": "WANDERING FROM PLACE TO PLACE; UNSETTLED",
+        "send": 0
+    },
+    {
+        "word": "ITINERARY",
+        "meaning": "ROUTE OF A TRAVELER'S JOURNEY",
+        "send": 0
+    },
+    {
+        "word": "JAUNDICED",
+        "meaning": "HAVING A YELLOWISH DISCOLORATION OF THE SKIN; AFFECTED BY ENVY, RESENTMENT, OR HOSTILITY",
+        "send": 0
+    },
+    {
+        "word": "JIBE",
+        "meaning": "TO BE IN AGREEMENT",
+        "send": 0
+    },
+    {
+        "word": "JOCOSE",
+        "meaning": "FOND OF JOKING; JOCULAR; PLAYFUL",
+        "send": 0
+    },
+    {
+        "word": "JUGGERNAUT",
+        "meaning": "HUGE FORCE DESTROYING EVERYTHING IN ITS PATH",
+        "send": 0
+    },
+    {
+        "word": "JUNTA",
+        "meaning": "GROUP OF PEOPLE UNITED IN POLITIC INTRIGUE",
+        "send": 0
+    },
+    {
+        "word": "JUXTAPOSE",
+        "meaning": "PLACE SIDE BY SIDE",
+        "send": 0
+    },
+    {
+        "word": "KUDOS",
+        "meaning": "FAME; GLORY; GONOR",
+        "send": 0
+    },
+    {
+        "word": "LABILE",
+        "meaning": "LIKELY TO CHANGE",
+        "send": 0
+    },
+    {
+        "word": "LACONIC",
+        "meaning": "USING FEW WORDS",
+        "send": 0
+    },
+    {
+        "word": "LAMBASTE",
+        "meaning": "TO THRASH VERBALLY OR PHYSICALLY",
+        "send": 0
+    },
+    {
+        "word": "LASCIVIOUS",
+        "meaning": "LUSTFUL",
+        "send": 0
+    },
+    {
+        "word": "LASSITUDE",
+        "meaning": "LETHARGY; SLUGGISHNESS",
+        "send": 0
+    },
+    {
+        "word": "LATENT",
+        "meaning": "PRESENT BUT HIDDEN; POTENTIAL",
+        "send": 0
+    },
+    {
+        "word": "LAUD",
+        "meaning": "TO PRAISE",
+        "send": 0
+    },
+    {
+        "word": "LETHARGIC",
+        "meaning": "INACTIVE",
+        "send": 0
+    },
+    {
+        "word": "LEVEE",
+        "meaning": "AN EMBANKMENT THAT PREVENTS A RIVER FROM OVERFLOWING",
+        "send": 0
+    },
+    {
+        "word": "LEVITY",
+        "meaning": "LIGHT MANNER OR ATTITUDE",
+        "send": 0
+    },
+    {
+        "word": "LIBERAL",
+        "meaning": "TOLERANT; BROAD-MINDED; GENEROUS; LAVISH",
+        "send": 0
+    },
+    {
+        "word": "LIBERTINE",
+        "meaning": "ONE WITHOUT MORAL RESTRAINT",
+        "send": 0
+    },
+    {
+        "word": "LIBIDO",
+        "meaning": "SEXUAL DESIRE",
+        "send": 0
+    },
+    {
+        "word": "LILLIPUTIAN",
+        "meaning": "EXTREMELY SMALL",
+        "send": 0
+    },
+    {
+        "word": "LIMN",
+        "meaning": "TO DRAW; DESCRIBE",
+        "send": 0
+    },
+    {
+        "word": "LIMPID",
+        "meaning": "CLEAR; TRANSPARENT",
+        "send": 0
+    },
+    {
+        "word": "LINGUISTIC",
+        "meaning": "PERTAINING TO LANGUAGE",
+        "send": 0
+    },
+    {
+        "word": "LITANY",
+        "meaning": "LENGTHY RECITATION; REPETITIVE CHANT",
+        "send": 0
+    },
+    {
+        "word": "LITERATI",
+        "meaning": "SCHOLARLY OR LEARNED PERSONS",
+        "send": 0
+    },
+    {
+        "word": "LITIGATION",
+        "meaning": "LEGAL PROCEEDINGS",
+        "send": 0
+    },
+    {
+        "word": "LOG",
+        "meaning": "RECORD OF A VOYAGE; RECORD OF DAILY ACTIVITIES",
+        "send": 0
+    },
+    {
+        "word": "LOQUACIOUS",
+        "meaning": "TALKATIVE",
+        "send": 0
+    },
+    {
+        "word": "LUCID",
+        "meaning": "BRIGHT; CLEAR; INTELLIGIBLE",
+        "send": 0
+    },
+    {
+        "word": "LUCRE",
+        "meaning": "MONEY OR PROFITS",
+        "send": 0
+    },
+    {
+        "word": "LUMINOUS",
+        "meaning": "BRIGHT; BRILLIANT; GLOWING",
+        "send": 0
+    },
+    {
+        "word": "LUSTROUS",
+        "meaning": "SHINING",
+        "send": 0
+    },
+    {
+        "word": "MACHIAVELLIAN",
+        "meaning": "CRAFTY; DOUBLE-DEALING",
+        "send": 0
+    },
+    {
+        "word": "MACHINATIONS",
+        "meaning": "PLOTS OR SCHEMES",
+        "send": 0
+    },
+    {
+        "word": "MAELSTROM",
+        "meaning": "WHIRLPOOL; TURMOIL",
+        "send": 0
+    },
+    {
+        "word": "MAGNANIMITY",
+        "meaning": "GENEROSITY; NOBILITY",
+        "send": 0
+    },
+    {
+        "word": "MALIGN",
+        "meaning": "TO SPEAK EVIL OF",
+        "send": 0
+    },
+    {
+        "word": "MALINGER",
+        "meaning": "TO FEIGN ILLNESS TO ESCAPE DUTY",
+        "send": 0
+    },
+    {
+        "word": "MALLEABLE",
+        "meaning": "CAPABLE OF BEING SHAPED BY POUNDING; IMPRESSIONABLE",
+        "send": 0
+    },
+    {
+        "word": "MAVERICK",
+        "meaning": "DISSENTER",
+        "send": 0
+    },
+    {
+        "word": "MEGALOMANIA",
+        "meaning": "DELUSIONS OF POWER OR IMPORTANCE",
+        "send": 0
+    },
+    {
+        "word": "MENAGERIE",
+        "meaning": "A VARIETY OF ANIMALS KEPT TOGETHER",
+        "send": 0
+    },
+    {
+        "word": "MENDACIOUS",
+        "meaning": "DISHONEST",
+        "send": 0
+    },
+    {
+        "word": "MENDICANT",
+        "meaning": "BEGGAR",
+        "send": 0
+    },
+    {
+        "word": "MERETRICIOUS",
+        "meaning": "GAUDY; PLAUSIBLE BUT FALSE; SPECIOUS",
+        "send": 0
+    },
+    {
+        "word": "MESMERIZE",
+        "meaning": "TO HYPNOTIZE",
+        "send": 0
+    },
+    {
+        "word": "METAMORPHOSIS",
+        "meaning": "CHANGE; TRANSFORMATION",
+        "send": 0
+    },
+    {
+        "word": "METAPHYSICS",
+        "meaning": "A BRANCH OF PHILOSOPHY THAT INVESTIGATES THE ULTIMATE NATURE OF REALITY",
+        "send": 0
+    },
+    {
+        "word": "METEOROLOGICAL",
+        "meaning": "CONCERNED WITH THE WEATHER",
+        "send": 0
+    },
+    {
+        "word": "METICULOUS",
+        "meaning": "VERY CAREFUL; FASTIDIOUS",
+        "send": 0
+    },
+    {
+        "word": "METTLE",
+        "meaning": "COURAGE; ENDURANCE",
+        "send": 0
+    },
+    {
+        "word": "METTLESOME",
+        "meaning": "FULL OF COURAGE AND FORTITUDE; SPIRITED",
+        "send": 0
+    },
+    {
+        "word": "MICROCOSM",
+        "meaning": "A SMALL SYSTEM HAVING ANALOGIES TO A LARGER SYSTEM; SMALL WORLD",
+        "send": 0
+    },
+    {
+        "word": "MILITATE",
+        "meaning": "TO WORK AGAINST",
+        "send": 0
+    },
+    {
+        "word": "MINATORY",
+        "meaning": "THREATENING; MENACING",
+        "send": 0
+    },
+    {
+        "word": "MINUSCULE",
+        "meaning": "VERY SMALL",
+        "send": 0
+    },
+    {
+        "word": "MINUTIA",
+        "meaning": "PETTY DETAILS",
+        "send": 0
+    },
+    {
+        "word": "MISANTHROPE",
+        "meaning": "ONE WHO HATES HUMANITY",
+        "send": 0
+    },
+    {
+        "word": "MISCELLANY",
+        "meaning": "MIXTURE OF WRITINGS ON VARIOUS SUBJECTS",
+        "send": 0
+    },
+    {
+        "word": "MISCREANT",
+        "meaning": "VILLAIN; CRIMINAL",
+        "send": 0
+    },
+    {
+        "word": "MISOGYNIST",
+        "meaning": "ONE WHO HATES WOMEN",
+        "send": 0
+    },
+    {
+        "word": "MITIGATE",
+        "meaning": "TO CAUSE TO BECOME LESS HARSH; SEVERE, OR PAINFUL; ALLEVIATE",
+        "send": 0
+    },
+    {
+        "word": "MNEMONIC",
+        "meaning": "ADJ. RELATED TO MEMORY; ASSISTING MEMORY, N. A SYSTEM THAT DEVELOPS AND IMPROVES THE MEMORY",
+        "send": 0
+    },
+    {
+        "word": "MODICUM",
+        "meaning": "LIMITED QUANTITY",
+        "send": 0
+    },
+    {
+        "word": "MOLLIFY",
+        "meaning": "SOOTHE",
+        "send": 0
+    },
+    {
+        "word": "MONOLITHIC",
+        "meaning": "SOLID AND UNIFORM; CONSTITUTING A SINGLE, UNIFIED WHOLE",
+        "send": 0
+    },
+    {
+        "word": "MOROSE",
+        "meaning": "ILL-HUMORED; SULLEN",
+        "send": 0
+    },
+    {
+        "word": "MOTLEY",
+        "meaning": "MANY COLORED; MADE UP OF MANY PARTS",
+        "send": 0
+    },
+    {
+        "word": "MULTIFARIOUS",
+        "meaning": "DIVERSE",
+        "send": 0
+    },
+    {
+        "word": "MUNDANE",
+        "meaning": "WORLDLY AS OPPOSED TO SPIRITUAL; CONCERNED WITH THE ORDINARY",
+        "send": 0
+    },
+    {
+        "word": "NECROMANCY",
+        "meaning": "BLACK MAGIC",
+        "send": 0
+    },
+    {
+        "word": "NEGATE",
+        "meaning": "TO CANCEL OUT; NULLIFY",
+        "send": 0
+    },
+    {
+        "word": "NEOLOGISM",
+        "meaning": "NEW WORD OR EXPRESSION",
+        "send": 0
+    },
+    {
+        "word": "NEOPHYTE",
+        "meaning": "NOVICE; BEGINNER",
+        "send": 0
+    },
+    {
+        "word": "NEXUS",
+        "meaning": "A MEANS OF CONNECTION; A CONNECTED GROUP OR SERIES; A CENTER",
+        "send": 0
+    },
+    {
+        "word": "NONPLUSSED",
+        "meaning": "BEWILDERED",
+        "send": 0
+    },
+    {
+        "word": "NOSTALGIA",
+        "meaning": "SENTIMENTAL LONGING FOR A PAST TIME",
+        "send": 0
+    },
+    {
+        "word": "NOSTRUM",
+        "meaning": "MEDICINE OR REMEDY OF DOUBTFUL EFFECTIVENESS; SUPPOSED CURE",
+        "send": 0
+    },
+    {
+        "word": "NUGATORY",
+        "meaning": "TRIFLING; INVALID",
+        "send": 0
+    },
+    {
+        "word": "OBDURATE",
+        "meaning": "STUBBORN",
+        "send": 0
+    },
+    {
+        "word": "OBSEQUIOUS",
+        "meaning": "OVERLY SUBMISSIVE",
+        "send": 0
+    },
+    {
+        "word": "OBSEQUY",
+        "meaning": "FUNERAL CEREMONY (OFTEN USED IN THE PLURAL, OBSEQUIES)",
+        "send": 0
+    },
+    {
+        "word": "OBVIATE",
+        "meaning": "TO MAKE UNNECESSARY; TO ANTICIPATE AND PREVENT",
+        "send": 0
+    },
+    {
+        "word": "OCCLUDE",
+        "meaning": "TO SHUT; BLOCK",
+        "send": 0
+    },
+    {
+        "word": "OCCULT",
+        "meaning": "RELATING TO PRACTICES CONNECTED WITH SUPERNATURAL PHENOMENA",
+        "send": 0
+    },
+    {
+        "word": "ODYSSEY",
+        "meaning": "A LONG ADVENTUROUS VOYAGE; A QUEST",
+        "send": 0
+    },
+    {
+        "word": "OFFICIOUS",
+        "meaning": "TOO HELPFUL; MEDDLESOME",
+        "send": 0
+    },
+    {
+        "word": "OLFACTORY",
+        "meaning": "CONCERNING THE SENSE OF SMELL",
+        "send": 0
+    },
+    {
+        "word": "OLIGARCHY",
+        "meaning": "FORM OF GOVERNMENT IN WHICH POWER BELONGS TO ONLY A FEW LEADERS",
+        "send": 0
+    },
+    {
+        "word": "ONEROUS",
+        "meaning": "BURDENSOME",
+        "send": 0
+    },
+    {
+        "word": "ONOMATOPOEIA",
+        "meaning": "FORMATION OR USE OF WORDS THAT IMITATE SOUNDS OF THE ACTIONS THEY REFER TO",
+        "send": 0
+    },
+    {
+        "word": "OPPROBRIUM",
+        "meaning": "DISGRACE; CONTEMPT",
+        "send": 0
+    },
+    {
+        "word": "ORNITHOLOGIST",
+        "meaning": "SCIENTIST WHO STUDIES BIRDS",
+        "send": 0
+    },
+    {
+        "word": "OSCILLATE",
+        "meaning": "TO MOVE BACK AND FORTH",
+        "send": 0
+    },
+    {
+        "word": "OSTENTATIOUS",
+        "meaning": "SHOWY; TRYING TO ATTRACT ATTENTION; PRETENTIOUS",
+        "send": 0
+    },
+    {
+        "word": "OVERWEENING",
+        "meaning": "PRESUMPTUOUS; ARROGANT; OVERBEARING",
+        "send": 0
+    },
+    {
+        "word": "PAEAN",
+        "meaning": "SONG OF JOY OR TRIUMPH; A FERVENT EXPRESSION OF JOY",
+        "send": 0
+    },
+    {
+        "word": "PALEONTOLOGY",
+        "meaning": "STUDY OF PAST GEOLOGICAL ERAS THROUGH FOSSIL REMAINS",
+        "send": 0
+    },
+    {
+        "word": "PALLID",
+        "meaning": "LACKING COLOR OR LIVELINESS",
+        "send": 0
+    },
+    {
+        "word": "PANEGYRIC",
+        "meaning": "ELABORATE PRAISE; FORMAL HYMN OF PRAISE",
+        "send": 0
+    },
+    {
+        "word": "PARAGON",
+        "meaning": "MODEL OF EXCELLENCE OR PERFECTION",
+        "send": 0
+    },
+    {
+        "word": "PARTISAN",
+        "meaning": "ONE-SIDED; COMMITTED TO A PARTY, GROUP. OR CAUSE; PREJUDICED",
+        "send": 0
+    },
+    {
+        "word": "PATHOLOGICAL",
+        "meaning": "DEPARTING FROM NORMAL CONDITION",
+        "send": 0
+    },
+    {
+        "word": "PATOIS",
+        "meaning": "A REGIONAL DIALECT; NONSTANDARD SPEECH; JARGON",
+        "send": 0
+    },
+    {
+        "word": "PAUCITY",
+        "meaning": "SCARCITY",
+        "send": 0
+    },
+    {
+        "word": "PEDANTIC",
+        "meaning": "SHOWING OFF LEARNING",
+        "send": 0
+    },
+    {
+        "word": "PELLUCID",
+        "meaning": "TRANSPARENT; TRANSLUCENT; EASILY UNDERSTOOD",
+        "send": 0
+    },
+    {
+        "word": "PENCHANT",
+        "meaning": "INCLINATION",
+        "send": 0
+    },
+    {
+        "word": "PENURTY",
+        "meaning": "EXTREME POVERTY",
+        "send": 0
+    },
+    {
+        "word": "PEREGRINATION",
+        "meaning": "A WANDERING FROM PLACE TO PLACE",
+        "send": 0
+    },
+    {
+        "word": "PEREMPTORY",
+        "meaning": "IMPERATIVE; LEAVING NO CHOICE",
+        "send": 0
+    },
+    {
+        "word": "PERENNIAL",
+        "meaning": "PRESENT THROUGHOUT THE YEARS; PERSISTENT",
+        "send": 0
+    },
+    {
+        "word": "PERFIDIOUS",
+        "meaning": "FAITHLESS; DISLOYAL; UNTRUSTWORTHY",
+        "send": 0
+    },
+    {
+        "word": "PERFUNCTORY",
+        "meaning": "SUPERFICIAL; NOT THOROUGH; PERFORMED REALLY AS A DUTY",
+        "send": 0
+    },
+    {
+        "word": "PERIGEE",
+        "meaning": "POINT IN AN ORBIT THAT IS CLOSEST TO THE EARTH",
+        "send": 0
+    },
+    {
+        "word": "PERMEABLE",
+        "meaning": "PENETRABLE",
+        "send": 0
+    },
+    {
+        "word": "PERTURB",
+        "meaning": "TO DISTURB GREATLY; MAKE UNEASY OR ANXIOUS; CAUSE A BODY TO DEVIATE FROM ITS REGULAR ORBIT",
+        "send": 0
+    },
+    {
+        "word": "PERVASIVE",
+        "meaning": "SPREAD THROUGHOUT EVERY PART",
+        "send": 0
+    },
+    {
+        "word": "PETULANT",
+        "meaning": "RUDE; PEEVISH",
+        "send": 0
+    },
+    {
+        "word": "PHLEGMATIC",
+        "meaning": "CALM IN TEMPERAMENT; SLUGGISH",
+        "send": 0
+    },
+    {
+        "word": "PHOENIX",
+        "meaning": "MYTHICAL, IMMORTAL BIRD THAT LIVES FOR 500 YEARS, BURNS ITSELF TO DEATH, AND RISES FROM THE ASHES; ANYTHING THAT IS RESTORED AFTER SUFFERING GREAT DESTRUCTION",
+        "send": 0
+    },
+    {
+        "word": "PHYSIOGNOMY",
+        "meaning": "FACIAL FEATURES",
+        "send": 0
+    },
+    {
+        "word": "PIETY",
+        "meaning": "DEVOUTNESS",
+        "send": 0
+    },
+    {
+        "word": "PIQUANT",
+        "meaning": "APPEALINGLY STIMULATING; PLEASANTLY PUNGENT; ATTRATIVE",
+        "send": 0
+    },
+    {
+        "word": "PIQUE",
+        "meaning": "N. FLEETING FEELING OF HURT PRIDE, V. TO PROVOKE OR AROUSE",
+        "send": 0
+    },
+    {
+        "word": "PLACATE",
+        "meaning": "TO LESSEN ANOTHER'S ANGER; TO PACIFY",
+        "send": 0
+    },
+    {
+        "word": "PLACID",
+        "meaning": "CALM",
+        "send": 0
+    },
+    {
+        "word": "PLAINTIVE",
+        "meaning": "MELANCHOLY; MOURNFUL",
+        "send": 0
+    },
+    {
+        "word": "PLASTICITY",
+        "meaning": "CONDITION OF BEING ABLE TO BE SHAPED OR FORMED; PLIABILITY",
+        "send": 0
+    },
+    {
+        "word": "PLATITUDE",
+        "meaning": "STALE, OVERUSED EXPRESSION",
+        "send": 0
+    },
+    {
+        "word": "PLATONIC",
+        "meaning": "SPIRITUAL; WITHOUT SENSUAL DESIRE; THEORETICAL",
+        "send": 0
+    },
+    {
+        "word": "PLETHORA",
+        "meaning": "EXCESS; OVERABUNDANCE",
+        "send": 0
+    },
+    {
+        "word": "PLUMB",
+        "meaning": "TO DETERMINE THE DEPTH; TO EXAMINE DEEPLY",
+        "send": 0
+    },
+    {
+        "word": "PLUME",
+        "meaning": "TO CONGRATULATE ONESELF IN A SELF-SATISFIED WAY",
+        "send": 0
+    },
+    {
+        "word": "PLUMMET",
+        "meaning": "TO FALL; PLUNGE",
+        "send": 0
+    },
+    {
+        "word": "PLUTOCRACY",
+        "meaning": "SOCIETY RULED BY THE WEALTHY",
+        "send": 0
+    },
+    {
+        "word": "POROUS",
+        "meaning": "FULL OF HOLES; PERMEABLE TO LIQUIDS",
+        "send": 0
+    },
+    {
+        "word": "POSEUR",
+        "meaning": "PERSON WHO AFFECTS AN ATTITUDE OR IDENTITY TO IMPRESS OTHERS",
+        "send": 0
+    },
+    {
+        "word": "PRAGMATIC",
+        "meaning": "PRACTICAL",
+        "send": 0
+    },
+    {
+        "word": "PRATE",
+        "meaning": "TO TALK IDLY; CHATTER",
+        "send": 0
+    },
+    {
+        "word": "PRATTLE",
+        "meaning": "MEANINGLESS, FOOLISH TALK",
+        "send": 0
+    },
+    {
+        "word": "PREAMBLE",
+        "meaning": "PRELIMINARY STATEMENT",
+        "send": 0
+    },
+    {
+        "word": "PRECARIOUS",
+        "meaning": "UNCERTAIN",
+        "send": 0
+    },
+    {
+        "word": "PRECEPT",
+        "meaning": "PRINCIPLE; LAW",
+        "send": 0
+    },
+    {
+        "word": "PRECIPITATE",
+        "meaning": "V. TO CAUSE TO HAPPEN; THROW DOWN FROM A HEIGHT, ADJ. RASH; HASTY SUDDEN",
+        "send": 0
+    },
+    {
+        "word": "PRECURSOR",
+        "meaning": "FORERUNNER; PREDECESSOR",
+        "send": 0
+    },
+    {
+        "word": "PREEMPT",
+        "meaning": "TO SUPERSEDE; APPROPRIATE FOR ONESELF",
+        "send": 0
+    },
+    {
+        "word": "PREHENSILE",
+        "meaning": "CAPABLE OF GRASPING",
+        "send": 0
+    },
+    {
+        "word": "PREMONITION",
+        "meaning": "FOREWARNING; PRESENTIMENT",
+        "send": 0
+    },
+    {
+        "word": "PRESAGE",
+        "meaning": "TO FORETELL; INDICATE IN ADVANCE",
+        "send": 0
+    },
+    {
+        "word": "PRESUMPTUOUS",
+        "meaning": "RUDE; IMPROPERLY BOLD",
+        "send": 0
+    },
+    {
+        "word": "PRETERNATURAL",
+        "meaning": "BEYOND THE NORMAL COURSE OF NATURE; SUPERNATURAL",
+        "send": 0
+    },
+    {
+        "word": "PREVARICATE",
+        "meaning": "TO QUIBBLE; EVADE THE TRUTH",
+        "send": 0
+    },
+    {
+        "word": "PRIMORDIAL",
+        "meaning": "ORIGINAL; EXISTING FROM THE BEGINNING",
+        "send": 0
+    },
+    {
+        "word": "PRISTINE",
+        "meaning": "UNTOUCHED; UNCORRUPTED",
+        "send": 0
+    },
+    {
+        "word": "PROBITY",
+        "meaning": "HONESTY; HIGH-MINDEDNESS",
+        "send": 0
+    },
+    {
+        "word": "PROBLEMATIC",
+        "meaning": "POSING A PROBLEM; DOUBTFUL; UNSETTLED",
+        "send": 0
+    },
+    {
+        "word": "PRODIGAL",
+        "meaning": "WASTEFUL; EXTRAVAGANT; LAVISH",
+        "send": 0
+    },
+    {
+        "word": "PROFOUND",
+        "meaning": "DEEP; NOT SUPERFICIAL",
+        "send": 0
+    },
+    {
+        "word": "PROHIBITIVE",
+        "meaning": "SO HIGH AS TO PREVENT THE PURCHASE OR USE OF; PREVENTING; FORBIDDING",
+        "send": 0
+    },
+    {
+        "word": "PROLIFERATE",
+        "meaning": "TO INCREASE RAPIDLY",
+        "send": 0
+    },
+    {
+        "word": "PROPITIATE",
+        "meaning": "TO WIN OVER; APPEASE",
+        "send": 0
+    },
+    {
+        "word": "PROPENSITY",
+        "meaning": "INCLINATION; TENDENCY",
+        "send": 0
+    },
+    {
+        "word": "PROPRIETY",
+        "meaning": "CORRECT CONDUCT; FITNESS",
+        "send": 0
+    },
+    {
+        "word": "PROSCRIBE",
+        "meaning": "V. TO CONDEMN; FORBID OUTLAW, ADJ. RELATING TO PROHIBITION",
+        "send": 0
+    },
+    {
+        "word": "PROVIDENT",
+        "meaning": "PROVIDING FOR FUTURE NEEDS; FRUGAL",
+        "send": 0
+    },
+    {
+        "word": "PUISSANT",
+        "meaning": "POWERFUL",
+        "send": 0
+    },
+    {
+        "word": "PUNCTILIOUS",
+        "meaning": "CAREFUL IN OBSERVING RULES OF BEHAVIOR OR CEREMONY",
+        "send": 0
+    },
+    {
+        "word": "PUNGENT",
+        "meaning": "STRONG OR SHARP IN SMELL OR TASTE; PENETRATING; CAUSTIC; TO THE POINT",
+        "send": 0
+    },
+    {
+        "word": "PURPORT",
+        "meaning": "V. TO PROFESS; SUPPOSE; CLAIM, N. MEANING INTENDED OR IMPLIED",
+        "send": 0
+    },
+    {
+        "word": "PUSILLANIMOUS",
+        "meaning": "COWARDLY",
+        "send": 0
+    },
+    {
+        "word": "QUAGMIRE",
+        "meaning": "MARSH; DIFFICULT SITUATION",
+        "send": 0
+    },
+    {
+        "word": "QUAIL",
+        "meaning": "TO COWER; LOSE HEART",
+        "send": 0
+    },
+    {
+        "word": "QUALIFIED",
+        "meaning": "LIMITED; RESTRICTED",
+        "send": 0
+    },
+    {
+        "word": "QUALM",
+        "meaning": "SUDDEN FEELING OF FAINTNESS OR NAUSEA; UNEASY FEELING ABOUT THE RIGHTNESS OF ACTIONS",
+        "send": 0
+    },
+    {
+        "word": "QUERY",
+        "meaning": "TO QUESTION",
+        "send": 0
+    },
+    {
+        "word": "QUIBBLE",
+        "meaning": "TO ARGUE OVER INSIGNIFICANT AND IRRELEVANT DETAILS",
+        "send": 0
+    },
+    {
+        "word": "QUIESCENT",
+        "meaning": "INACTIVE; STILL",
+        "send": 0
+    },
+    {
+        "word": "QUORUM",
+        "meaning": "NUMBER OF MEMBERS NECESSARY TO CONDUCT A MEETING",
+        "send": 0
+    },
+    {
+        "word": "RACONTEUR",
+        "meaning": "WITTY, SKILLFUL STORYTELLER",
+        "send": 0
+    },
+    {
+        "word": "RAIL",
+        "meaning": "TO SCOLD WITH BITTER OR ABUSIVE LANGUAGE",
+        "send": 0
+    },
+    {
+        "word": "RAIMENT",
+        "meaning": "CLOTHING",
+        "send": 0
+    },
+    {
+        "word": "RAMIFICATION",
+        "meaning": "IMPLICATION; OUTGROWTH; CONSEQUENCE",
+        "send": 0
+    },
+    {
+        "word": "RAREFIED",
+        "meaning": "REFINED",
+        "send": 0
+    },
+    {
+        "word": "RATIONALE",
+        "meaning": "FUNDAMENTAL REASON",
+        "send": 0
+    },
+    {
+        "word": "REBUS",
+        "meaning": "PUZZLE IN WHICH PICTURES OR SYMBOLS REPRESENT WORDS",
+        "send": 0
+    },
+    {
+        "word": "RECALCITRANT",
+        "meaning": "RESISTING AUTHORITY OR CONTROL",
+        "send": 0
+    },
+    {
+        "word": "RECANT",
+        "meaning": "TO RETRACT A STATEMENT OR OPINION",
+        "send": 0
+    },
+    {
+        "word": "RECLUSE",
+        "meaning": "PERSON WHO LIVES IN SECLUSION AND OFTEN IN SOLITUDE",
+        "send": 0
+    },
+    {
+        "word": "RECONDITE",
+        "meaning": "ABSTRUSE; PROFOUND",
+        "send": 0
+    },
+    {
+        "word": "REDOUBTABLE",
+        "meaning": "FORMIDABLE; AROUSING FEAR; WORTHY OF RESPECT",
+        "send": 0
+    },
+    {
+        "word": "REFRACTORY",
+        "meaning": "STUBBORN; UNMANAGEABLE; RESISTING ORDINARY METHODS OF TREATMENT",
+        "send": 0
+    },
+    {
+        "word": "REFRACT",
+        "meaning": "DEFLECT LIGHT OR SOUND",
+        "send": 0
+    },
+    {
+        "word": "REFULGENT",
+        "meaning": "BRIGHTLY SHINING; RESPLENDENT",
+        "send": 0
+    },
+    {
+        "word": "REFUTE",
+        "meaning": "TO CONTRADICT; DISAPPROVE",
+        "send": 0
+    },
+    {
+        "word": "REGALE",
+        "meaning": "ENTERTAIN",
+        "send": 0
+    },
+    {
+        "word": "RELEGATE",
+        "meaning": "TO CONSIGN TO AN INFERIOR POSITION",
+        "send": 0
+    },
+    {
+        "word": "REMONSTRATE",
+        "meaning": "TO OBJECT OR PROTEST",
+        "send": 0
+    },
+    {
+        "word": "RENEGE",
+        "meaning": "TO GO BACK ON ONE'S WORD",
+        "send": 0
+    },
+    {
+        "word": "REPARATION",
+        "meaning": "AMENDS; COMPENSATION",
+        "send": 0
+    },
+    {
+        "word": "REPINE",
+        "meaning": "FRET; COMPLAIN",
+        "send": 0
+    },
+    {
+        "word": "REPRISE",
+        "meaning": "REPETITION, ESPECIALLY OF A PIECE OF MUSIC",
+        "send": 0
+    },
+    {
+        "word": "REPROACH",
+        "meaning": "TO FIND FAULT WITH; BLAME",
+        "send": 0
+    },
+    {
+        "word": "REPROBATE",
+        "meaning": "MORALLY UNPRINCIPLED PERSON",
+        "send": 0
+    },
+    {
+        "word": "REPUDIATE",
+        "meaning": "TO REJECT AS HAVING NO AUTHORITY",
+        "send": 0
+    },
+    {
+        "word": "RESCIND",
+        "meaning": "TO CANCEL",
+        "send": 0
+    },
+    {
+        "word": "RESOLUTION",
+        "meaning": "DETERMINATION; RESOLVE",
+        "send": 0
+    },
+    {
+        "word": "RESOLVE",
+        "meaning": "DETERMINATION; FIRMNESS OF PURPOSE",
+        "send": 0
+    },
+    {
+        "word": "RETICENT",
+        "meaning": "NOT SPEAKING FREELY; RESERVED; RELUCTANT",
+        "send": 0
+    },
+    {
+        "word": "REVERENT",
+        "meaning": "EXPRESSING DEEP RESPECT; WORSHIPFUL",
+        "send": 0
+    },
+    {
+        "word": "RIPOSTE",
+        "meaning": "RETALIATORY ACTION OR RETORT",
+        "send": 0
+    },
+    {
+        "word": "ROCOCO",
+        "meaning": "EXCESSIVELY ORNATE; HIGHLY DECORATED; STYLE OF ARCHITECTURE IN EIGHTEENTH CENTURY EUROPE",
+        "send": 0
+    },
+    {
+        "word": "RUBRIC",
+        "meaning": "TITLE OR HEADING; CATEGORY; ESTABLISHED MODE OF PROCEDURE OR CONDUCT; PROTOCOL",
+        "send": 0
+    },
+    {
+        "word": "RUE",
+        "meaning": "TO REGRET",
+        "send": 0
+    },
+    {
+        "word": "RUSE",
+        "meaning": "TRICK; CRAFTY STRATAGEM; SUBTERFUGE",
+        "send": 0
+    },
+    {
+        "word": "SAGE",
+        "meaning": "WISE",
+        "send": 0
+    },
+    {
+        "word": "SALACIOUS",
+        "meaning": "LASCIVIOUS; LUSTFUL",
+        "send": 0
+    },
+    {
+        "word": "SALUBRIOUS",
+        "meaning": "HEALTHFUL",
+        "send": 0
+    },
+    {
+        "word": "SALUTARY",
+        "meaning": "EXPECTING AN IMPROVEMENT; FAVORABLE TO HEALTH",
+        "send": 0
+    },
+    {
+        "word": "SANCTION",
+        "meaning": "V. TO APPROVE; RATIFY; PERMIT, N. APPROVAL; RATIFICATION; PERMISSION; PENALIZE",
+        "send": 0
+    },
+    {
+        "word": "SARDONIC",
+        "meaning": "CYNICAL; SCORNFULLY MOCKING",
+        "send": 0
+    },
+    {
+        "word": "SARTORIAL",
+        "meaning": "PERTAINING TO TAILORS",
+        "send": 0
+    },
+    {
+        "word": "SATIATE",
+        "meaning": "TO SATISFY",
+        "send": 0
+    },
+    {
+        "word": "SATURATE",
+        "meaning": "TO SOAK THOROUGHLY; IMBUE THROUGHOUT",
+        "send": 0
+    },
+    {
+        "word": "SATURNINE",
+        "meaning": "GLOOMY",
+        "send": 0
+    },
+    {
+        "word": "SATYR",
+        "meaning": "A CREATURE THAT IS HALF-MAN, HALF-BEAST WITH THE HORNS AND LEGS OF A GOAT; IT IS A FOLLOWER OF DIONYSOS; A LECHER",
+        "send": 0
+    },
+    {
+        "word": "SAVOR",
+        "meaning": "TO ENJOY; HAVE A DISTINCTIVE FLAVOR OR SMELL",
+        "send": 0
+    },
+    {
+        "word": "SCHEMATIC",
+        "meaning": "RELATING TO OR IN THE FORM OF AN OUTLINE OR DIAGRAM",
+        "send": 0
+    },
+    {
+        "word": "SECRETE",
+        "meaning": "PRODUCE AND RELEASE SUBSTANCE INTO AN ORGANISM",
+        "send": 0
+    },
+    {
+        "word": "SEDITION",
+        "meaning": "BEHAVIOR PROMPTING REBELLION",
+        "send": 0
+    },
+    {
+        "word": "SEDULOUS",
+        "meaning": "DILIGENT",
+        "send": 0
+    },
+    {
+        "word": "SEISMIC",
+        "meaning": "RELATING TO EARTHQUAKES; EARTHSHAKING",
+        "send": 0
+    },
+    {
+        "word": "SENSUAL",
+        "meaning": "RELATING TO THE SENSES; GRATIFYING THE PHYSICAL SENSES, ESPECIALLY SEXUAL APPETITES",
+        "send": 0
+    },
+    {
+        "word": "SENSUOUS",
+        "meaning": "RELATING TO THE SENSES; OPERATING THROUGH THE SENSES",
+        "send": 0
+    },
+    {
+        "word": "SENTIENT",
+        "meaning": "AWARE; CONSCIOUS; ABLE TO PERCEIVE",
+        "send": 0
+    },
+    {
+        "word": "SERVILE",
+        "meaning": "SUBMISSIVE; OBEDIENT",
+        "send": 0
+    },
+    {
+        "word": "SEXTANT",
+        "meaning": "NAVIGATION TOOL THAT DETERMINES LATITUDE AND LONGITUDE",
+        "send": 0
+    },
+    {
+        "word": "SHARD",
+        "meaning": "A PIECE OF BROKEN GLASS OR POTTERY",
+        "send": 0
+    },
+    {
+        "word": "SIDEREAL",
+        "meaning": "RELATING TO THE STARS",
+        "send": 0
+    },
+    {
+        "word": "SIMIAN",
+        "meaning": "APELIKE; RELATING TO APES",
+        "send": 0
+    },
+    {
+        "word": "SIMILE",
+        "meaning": "COMPARISON OF ONE THING WITH ANOTHER USING LIKE\" OR \"AS\"\"",
+        "send": 0
+    },
+    {
+        "word": "SINECURE",
+        "meaning": "WELL-PAYING JOB OR OFFICE THAT REQUIRES LITTLE OR NO WORK",
+        "send": 0
+    },
+    {
+        "word": "SINGULAR",
+        "meaning": "UNIQUE; EXTRAORDINARY; ODD",
+        "send": 0
+    },
+    {
+        "word": "SINUOUS",
+        "meaning": "WINDING; INTRICATE; COMPLEX",
+        "send": 0
+    },
+    {
+        "word": "SKEPTIC",
+        "meaning": "ONE WHO DOUBTS",
+        "send": 0
+    },
+    {
+        "word": "SOBRIETY",
+        "meaning": "SERIOUSNESS",
+        "send": 0
+    },
+    {
+        "word": "SODDEN",
+        "meaning": "THOROUGHLY SOAKED; SATURATED",
+        "send": 0
+    },
+    {
+        "word": "SOLICITOUS",
+        "meaning": "CONCERNED; ATTENTIVE; EAGER",
+        "send": 0
+    },
+    {
+        "word": "SOLILOQUY",
+        "meaning": "LITERARY OR DRAMATIC SPEECH BY ONE CHARACTER, NOT ADDRESSED TO OTHERS",
+        "send": 0
+    },
+    {
+        "word": "SOLVENT",
+        "meaning": "ABLE TO MEET FINANCIAL OBLIGATION",
+        "send": 0
+    },
+    {
+        "word": "SOMATIC",
+        "meaning": "RELATING TO OR AFFECTING THE BODY; CORPOREAL",
+        "send": 0
+    },
+    {
+        "word": "SOPORIFIC",
+        "meaning": "SLEEP PRODUCING",
+        "send": 0
+    },
+    {
+        "word": "SORDID",
+        "meaning": "FILTHY; CONTEMPTIBLE AND CORRUPT",
+        "send": 0
+    },
+    {
+        "word": "SPECIOUS",
+        "meaning": "SEEMING TO BE LOGICAL AND SOUND, BUT NOT REALLY SO",
+        "send": 0
+    },
+    {
+        "word": "SPECTRUM",
+        "meaning": "BAND OF COLORS PRODUCED WHEN SUNLIGHT PASSES THROUGH A PRISM; A BROAD RANGE OF RELATED IDEAS OR OBJECTS",
+        "send": 0
+    },
+    {
+        "word": "SPENDTHRIFT",
+        "meaning": "N. PERSON WHO SPENDS MONEY RECKLESSLY, ADJ. WASTEFUL AND EXTRAVAGANT",
+        "send": 0
+    },
+    {
+        "word": "SPORADIC",
+        "meaning": "IRREGULAR",
+        "send": 0
+    },
+    {
+        "word": "SQUALOR",
+        "meaning": "FILTHY, WRETCHED CONDITION",
+        "send": 0
+    },
+    {
+        "word": "STACCATO",
+        "meaning": "MARKED BY ABRUPT, CLEAR-CUT SOUNDS",
+        "send": 0
+    },
+    {
+        "word": "STANCH",
+        "meaning": "TO STOP OR CHECK THE FLOW OF",
+        "send": 0
+    },
+    {
+        "word": "STENTORIAN",
+        "meaning": "EXTREMELY LOUD",
+        "send": 0
+    },
+    {
+        "word": "STIGMA",
+        "meaning": "MARK OF DISGRACE OR INFERIORITY",
+        "send": 0
+    },
+    {
+        "word": "STINT",
+        "meaning": "V. TO BE SPARING, N. A PERIOD OF TIME SPENT DOING SOMETHING",
+        "send": 0
+    },
+    {
+        "word": "STIPULATE",
+        "meaning": "TO SPECIFY AS AN ESSENTIAL CONDITION",
+        "send": 0
+    },
+    {
+        "word": "STOLID",
+        "meaning": "HAVING OR SHOWING LITTLE EMOTION",
+        "send": 0
+    },
+    {
+        "word": "STRATIFIED",
+        "meaning": "ARRANGED IN LAYERS",
+        "send": 0
+    },
+    {
+        "word": "STRIATED",
+        "meaning": "MARKED WITH THIN, NARROW GROOVES OR CHANNELS",
+        "send": 0
+    },
+    {
+        "word": "STRICTURE",
+        "meaning": "SOMETHING THAT RESTRAINS; NEGATIVE CRITICISM",
+        "send": 0
+    },
+    {
+        "word": "STRIDENT",
+        "meaning": "LOUD; HARSH; UNPLEASANTLY NOISY",
+        "send": 0
+    },
+    {
+        "word": "STRUT",
+        "meaning": "TO SWAGGER; DISPLAY TO IMPRESS OTHERS",
+        "send": 0
+    },
+    {
+        "word": "STULTIFY",
+        "meaning": "TO IMPAIR OR REDUCE TO USELESSNESS",
+        "send": 0
+    },
+    {
+        "word": "STUPEFY",
+        "meaning": "TO DULL THE SENSES OF; STUN; ASTONISH",
+        "send": 0
+    },
+    {
+        "word": "STYGIAN",
+        "meaning": "DARK AND GLOOMY; HELLISH",
+        "send": 0
+    },
+    {
+        "word": "SUBPOENA",
+        "meaning": "NOTICE ORDERING SOMEONE TO APPEAR IN COURT",
+        "send": 0
+    },
+    {
+        "word": "SUBSIDE",
+        "meaning": "TO SETTLE DOWN; GROW QUIET",
+        "send": 0
+    },
+    {
+        "word": "SUBSTANTIATE",
+        "meaning": "TO SUPPORT WITH PROOF OR EVIDENCE",
+        "send": 0
+    },
+    {
+        "word": "SUBSTANTIVE",
+        "meaning": "ESSENTIAL; PERTAINING TO THE SUBSTANCE",
+        "send": 0
+    },
+    {
+        "word": "SUBSUME",
+        "meaning": "TO INCLUDE; INCORPORATE",
+        "send": 0
+    },
+    {
+        "word": "SUBVERSIVE",
+        "meaning": "INTENDED TO UNDERMINE OR OVERTHROW, ESPECIALLY AN ESTABLISHED GOVERNMENT",
+        "send": 0
+    },
+    {
+        "word": "SUCCOR",
+        "meaning": "RELIEF; HELP IN TIME OF DISTRESS OR WANT",
+        "send": 0
+    },
+    {
+        "word": "SUFFRAGE",
+        "meaning": "THE RIGHT TO VOTE",
+        "send": 0
+    },
+    {
+        "word": "SUNDRY",
+        "meaning": "VARIOUS",
+        "send": 0
+    },
+    {
+        "word": "SUPERSEDE",
+        "meaning": "TO REPLACE, ESPECIALLY TO DISPLACE AS INFERIOR OR ANTIQUATED",
+        "send": 0
+    },
+    {
+        "word": "SUPINE",
+        "meaning": "LYING ON THE BACK; MARKED BY LETHARGY",
+        "send": 0
+    },
+    {
+        "word": "SUPPLANT",
+        "meaning": "TO REPLACE; SUBSTITUTE",
+        "send": 0
+    },
+    {
+        "word": "SUPPLIANT",
+        "meaning": "BESEECHING",
+        "send": 0
+    },
+    {
+        "word": "SUPPLICANT",
+        "meaning": "ONE WHO ASKS HUMBLY AND EARNESTLY",
+        "send": 0
+    },
+    {
+        "word": "SUPPOSITION",
+        "meaning": "THE ACT OF ASSUMING TO BE TRUE OR REAL",
+        "send": 0
+    },
+    {
+        "word": "SYLLOGISM",
+        "meaning": "A FORM OF DEDUCTIVE REASONING THAT HAS A MAJOR PREMISE, A MINOR PREMISE, AND A CONCLUSION",
+        "send": 0
+    },
+    {
+        "word": "SYLVAN",
+        "meaning": "RELATED TO THE WOODS OR FOREST",
+        "send": 0
+    },
+    {
+        "word": "TACIT",
+        "meaning": "SILENTLY UNDERSTOOD; IMPLIED",
+        "send": 0
+    },
+    {
+        "word": "TALISMAN",
+        "meaning": "CHARM TO BRING GOOD LUCK AND AVERT MISFORTUNE",
+        "send": 0
+    },
+    {
+        "word": "TANGENTIAL",
+        "meaning": "PERIPHERAL; DIGRESSING",
+        "send": 0
+    },
+    {
+        "word": "TAUTOLOGY",
+        "meaning": "UNNECESSARY REPETITION",
+        "send": 0
+    },
+    {
+        "word": "TAXONOMY",
+        "meaning": "SCIENCE OF CLASSIFICATION; IN BIOLOGY, THE PROCESS OF CLASSIFYING ORGANSIMS IN CATEGORIES",
+        "send": 0
+    },
+    {
+        "word": "TENET",
+        "meaning": "BELIEF; DOCTRINE",
+        "send": 0
+    },
+    {
+        "word": "TENUOUS",
+        "meaning": "WEAK; INSUBSTANTIAL",
+        "send": 0
+    },
+    {
+        "word": "TERRESTRIAL",
+        "meaning": "EARTHLY; COMMONPLACE",
+        "send": 0
+    },
+    {
+        "word": "THEOCRACY",
+        "meaning": "GOVERNMENT BY PRIESTS REPRESENTING A GOD",
+        "send": 0
+    },
+    {
+        "word": "THESPIAN",
+        "meaning": "AN ACTOR OR ACTRESS",
+        "send": 0
+    },
+    {
+        "word": "TIMBRE",
+        "meaning": "THE CHARACTERISTIC QUALITY OF SOUND PRODUCED BY A PARTICULAR INSTRUMENT OR VOICE; TONE COLOR",
+        "send": 0
+    },
+    {
+        "word": "TIRADE",
+        "meaning": "LONG, VIOLENT SPEECH; VERBAL ASSAULT",
+        "send": 0
+    },
+    {
+        "word": "TOADY",
+        "meaning": "FLATTERER; HANGER-ON; YES-MAN",
+        "send": 0
+    },
+    {
+        "word": "TOME",
+        "meaning": "BOOK, USUALLY LARGE AND ACADEMIC",
+        "send": 0
+    },
+    {
+        "word": "TORPOR",
+        "meaning": "LETHARGY; DORMANCY; SLUGGISHNESS",
+        "send": 0
+    },
+    {
+        "word": "TORQUE",
+        "meaning": "A TURNING OR TWISTING FORCE; THE MOMENT OF A FORCE; THE MEASURE OF A FORCE'S TENDENCY TO PRODUCE TWISTING OR TURNING AND ROTATION AROUND AN AXIS",
+        "send": 0
+    },
+    {
+        "word": "TORTUOUS",
+        "meaning": "HAVING MANY TWISTS AND TURNS; HIGHLY COMPLEX",
+        "send": 0
+    },
+    {
+        "word": "TOUT",
+        "meaning": "TO PROMOTE OR PRAISE ENERGETICALLY",
+        "send": 0
+    },
+    {
+        "word": "TRACTABLE",
+        "meaning": "OBEDIENT; YIELDING",
+        "send": 0
+    },
+    {
+        "word": "TRANSGRESSION",
+        "meaning": "ACT OF TRESPASSING OR VIOLATING A LAW OR RULE",
+        "send": 0
+    },
+    {
+        "word": "TRANSIENT",
+        "meaning": "TEMPORARY; SHORT-LIVED; FLEETING",
+        "send": 0
+    },
+    {
+        "word": "TRANSLUCENT",
+        "meaning": "PARTIALLY TRANSPARENT",
+        "send": 0
+    },
+    {
+        "word": "TRAVAIL",
+        "meaning": "N. WORK, ESPECIALLY ARDUOUS WORK; TRIBULATION; ANGUISH, V. TO WORK STRENUOUSLY",
+        "send": 0
+    },
+    {
+        "word": "TRAVESTY",
+        "meaning": "PARODY; EXAGGERATED IMITATION; CARICATURE",
+        "send": 0
+    },
+    {
+        "word": "TREATISE",
+        "meaning": "ARTICLE TREATING A SUBJECT SYSTEMATICALLY AND THOROUGHLY",
+        "send": 0
+    },
+    {
+        "word": "TREMULOUS",
+        "meaning": "TREMBLING; QUIVERING; FRUGAL; TIMID",
+        "send": 0
+    },
+    {
+        "word": "TREPIDATION",
+        "meaning": "FEAR AND ANXIETY",
+        "send": 0
+    },
+    {
+        "word": "TRUCULENCE",
+        "meaning": "AGGRESSIVENESS; FEROCITY",
+        "send": 0
+    },
+    {
+        "word": "TRYST",
+        "meaning": "AGREEMENT BETWEEN LOVERS TO MEET; RENDEZVOUS",
+        "send": 0
+    },
+    {
+        "word": "ANOMIE",
+        "meaning": "A SOCIAL CONDITION MARKED BY A BREAKDOWN OF SOCIAL NORMS",
+        "send": 0
+    },
+    {
+        "word": "TUMID",
+        "meaning": "SWOLLEN; DISTENDED",
+        "send": 0
+    },
+    {
+        "word": "TURBID",
+        "meaning": "MUDDY; OPAQUE; IN A STATE OF GREAT CONFUSION",
+        "send": 0
+    },
+    {
+        "word": "TURGID",
+        "meaning": "SWOLLEN; BLOATED; POMPOUS",
+        "send": 0
+    },
+    {
+        "word": "TUTELARY",
+        "meaning": "SERVING AS A GUARDIAN OR PROTECTOR",
+        "send": 0
+    },
+    {
+        "word": "UNCANNY",
+        "meaning": "MYSTERIOUS; STRANGE",
+        "send": 0
+    },
+    {
+        "word": "UNDULATING",
+        "meaning": "MOVING IN WAVES",
+        "send": 0
+    },
+    {
+        "word": "UNFEIGNED",
+        "meaning": "NOT FALSE; NOT MADE UP; GENUINE",
+        "send": 0
+    },
+    {
+        "word": "UNTENABLE",
+        "meaning": "INDEFENSIBLE",
+        "send": 0
+    },
+    {
+        "word": "UNTOWARD",
+        "meaning": "NOT FAVORABLE; TROUBLESOME; ADVERSE; UNRULY",
+        "send": 0
+    },
+    {
+        "word": "USURY",
+        "meaning": "PRACTICE OF LENDING MONEY AT EXORBITANT RATES",
+        "send": 0
+    },
+    {
+        "word": "VACILLATE",
+        "meaning": "TO WAVER; OSCILLATE",
+        "send": 0
+    },
+    {
+        "word": "VACUOUS",
+        "meaning": "EMPTY; VOID; LACKING INTELLIGENCE; PURPOSELESS",
+        "send": 0
+    },
+    {
+        "word": "VALEDICTORY",
+        "meaning": "PERTAINING TO A FAREWELL",
+        "send": 0
+    },
+    {
+        "word": "VAPID",
+        "meaning": "TASTELESS; DULL",
+        "send": 0
+    },
+    {
+        "word": "VARIEGATED",
+        "meaning": "VARIED; MARKED WITH DIFFERENT COLORS",
+        "send": 0
+    },
+    {
+        "word": "VAUNT",
+        "meaning": "TO BOAST; BRAG",
+        "send": 0
+    },
+    {
+        "word": "VENAL",
+        "meaning": "BRIBABLE; MERCENARY; CORRUPTIBLE",
+        "send": 0
+    },
+    {
+        "word": "VENDETTA",
+        "meaning": "PROLONGED FEUD MARKED BY BITTER HOSTILITY",
+        "send": 0
+    },
+    {
+        "word": "VENERATE",
+        "meaning": "V. TO ADORE; HONOR; RESPECT, ADJ. RESPECTED BECAUSE OF AGE, CHARACTER, OR POSITION",
+        "send": 0
+    },
+    {
+        "word": "VERACIOUS",
+        "meaning": "TRUTHFUL; ACCURATE",
+        "send": 0
+    },
+    {
+        "word": "VERBOSE",
+        "meaning": "WORDY",
+        "send": 0
+    },
+    {
+        "word": "VERTIGO",
+        "meaning": "DIZZINESS",
+        "send": 0
+    },
+    {
+        "word": "VEXATION",
+        "meaning": "IRRITATION; ANNOYANCE; CONFUSION; PUZZLEMENT",
+        "send": 0
+    },
+    {
+        "word": "VIABLE",
+        "meaning": "PRACTICABLE; CAPABLE OF DEVELOPING",
+        "send": 0
+    },
+    {
+        "word": "VINDICTIVE",
+        "meaning": "SPITEFUL; VENGEFUL; UNFORGIVING",
+        "send": 0
+    },
+    {
+        "word": "VIRTUOSO",
+        "meaning": "SOMEONE WITH MASTERLY SKILLS; EXPERT MUSICIAN",
+        "send": 0
+    },
+    {
+        "word": "VISAGE",
+        "meaning": "COUNTENANCE; APPEARANCE; ASPECT",
+        "send": 0
+    },
+    {
+        "word": "VISCOUS",
+        "meaning": "THICK, SYRUPY, AND STICKY",
+        "send": 0
+    },
+    {
+        "word": "VITIATE",
+        "meaning": "TO IMPAIR THE QUALITY OF; CORRUPT MORALLY; MAKE INOPERATIVE",
+        "send": 0
+    },
+    {
+        "word": "VITUPERATIVE",
+        "meaning": "USING OR CONTAINING HARSH, ABUSIVE CENSURE",
+        "send": 0
+    },
+    {
+        "word": "VIVISECTION",
+        "meaning": "DISSECTION; SURGERY; OR PAINFUL EXPERIMENTS PERFORMED ON A LIVING ANIMAL FOR THE PURPOSE OF SCIENTIFIC RESEARCH",
+        "send": 0
+    },
+    {
+        "word": "VOGUE",
+        "meaning": "PREVAILING FASHION OR PRACTICE",
+        "send": 0
+    },
+    {
+        "word": "VOLATILE",
+        "meaning": "TENDING TO VARY FREQUENTLY; FICKLE",
+        "send": 0
+    },
+    {
+        "word": "VORTEX",
+        "meaning": "WHIRLPOOL; WHIRLWIND; CENTER OF TURBULENCE",
+        "send": 0
+    },
+    {
+        "word": "WARRANTED",
+        "meaning": "ADJ. JUSTIFIED, V. TO ATTEST TO THE ACCURACY OR QUALITY; JUSTIFY; GRANT AUTHORIZATION",
+        "send": 0
+    },
+    {
+        "word": "WARY",
+        "meaning": "CAREFUL; CAUTIOUS",
+        "send": 0
+    },
+    {
+        "word": "WELTER",
+        "meaning": "TO WALLOW OR ROLL; TOSS ABOUT; BE IN TURMOIL",
+        "send": 0
+    },
+    {
+        "word": "WHIMSICAL",
+        "meaning": "FANCIFUL; UNPREDICTABLE",
+        "send": 0
+    },
+    {
+        "word": "WHIMSY",
+        "meaning": "PLAYFUL OR FANCIFUL IDEA",
+        "send": 0
+    },
+    {
+        "word": "WISTFUL",
+        "meaning": "VAGUELY LONGING; SADLY THOUGHTFUL",
+        "send": 0
+    },
+    {
+        "word": "ZEALOT",
+        "meaning": "ONE WHO IS FANATICALLY DEVOTED TO A CAUSE",
+        "send": 0
+    },
+    {
+        "word": "ZEALOTRY",
+        "meaning": "FANATICISM",
+        "send": 0
+    },
+    {
+        "word": "DE",
+        "meaning": "FACTO,IN FACT, WHETHER BY RIGHT OR NOT; EXERCISING POWER WITHOUT BEING LEGALLY ESTABLISHED",
+        "send": 0
+    },
+    {
+        "word": "DEVIANT",
+        "meaning": "A PERSON WHOSE BEHAVIOR DIFFERS FROM THE ACCEPTED STANDARDS OF SOCIETY",
+        "send": 0
+    },
+    {
+        "word": "DEFER",
+        "meaning": "TO SUBMIT TO THE WISHES OF ANOTHER DUE TO RESPECT OR RECOGNITION OF THE PERSON'S AUTHORITY OR KNOWLEDGE",
+        "send": 0
+    },
+    {
+        "word": "PLATONIC",
+        "meaning": "SPIRITUAL, WITHOUT SENSUAL DESIRE, OR THEORETICAL",
+        "send": 0
+    },
+    {
+        "word": "DISCERN",
+        "meaning": "TO PERCEIVE SOMETHING OBSCURE",
+        "send": 0
+    },
+    {
+        "word": "BIONICS",
+        "meaning": "THE APPLICATION OF BIOLOGICAL PRINCIPLES TO THE THE DESIGN OF ELECTRICAL OR ENGINEERING SYSTEMS",
+        "send": 0
+    },
+    {
+        "word": "HEURISTIC",
+        "meaning": "RELATING TO A SPECULATIVE FORMULATION GUIDING THE INVESTIGATION OR SOLUTION OF A PROBLEM; EDUCATIONAL METHOD IN WHICH STUDENTS LEARN FROM THEIR OWN INVESTIGATIONS",
+        "send": 0
+    },
+    {
+        "word": "EQUITABLE",
+        "meaning": "FAIR; JUST; IMPARTIAL",
+        "send": 0
+    },
+    {
+        "word": "GUILE",
+        "meaning": "DECEPTION OR TRICKERY",
+        "send": 0
+    },
+    {
+        "word": "REDUCTIONISTIC",
+        "meaning": "ATTEMPTING TO EXPLAIN COMPLEX PHENOMENA BY SIMPLE PRINCIPLES",
+        "send": 0
+    },
+    {
+        "word": "INERTIA",
+        "meaning": "DISINCLINATION TO ACTION OR CHANGE",
+        "send": 0
+    },
+    {
+        "word": "PATHOS",
+        "meaning": "A QUALITY THAT CAUSES A FEELING OF PITY OR SORROW",
+        "send": 0
+    },
+    {
+        "word": "PEDANT",
+        "meaning": "UNINSPIRED, BORING ACADEMIC",
+        "send": 0
+    }
+]
