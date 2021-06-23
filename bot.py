@@ -47,7 +47,15 @@ def runBot(auth, jsonFile):
     for wordIndex in wordIndexList:
         response = "{}\n\n\n<b><i>{}</i></b>\n---------------\n{}".format(response,jsonFile[wordIndex]['word'],jsonFile[wordIndex]['meaning'])
     for chatId in SETTING.CHAT_IDS:
-        telegram.Bot.sendMessage(auth, chatId, text=response, parse_mode=ParseMode.HTML)
+        try:
+            telegram.Bot.sendMessage(auth, chatId, text=response, parse_mode=ParseMode.HTML)
+        except telegram.error.BadRequest as e:
+            telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"{chatId} I don't know him/her :)", parse_mode=ParseMode.HTML)
+        except telegram.error.Unauthorized as e:
+            telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"{chatId} has blocked me :(", parse_mode=ParseMode.HTML)
+        except Exception as e:
+            telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"got error with {chatId} :(\n\n{e}", parse_mode=ParseMode.HTML)
+
 
 
 def main():
