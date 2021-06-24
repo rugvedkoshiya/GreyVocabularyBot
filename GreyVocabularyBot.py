@@ -72,6 +72,6 @@ def main():
 
 scheduler = BlockingScheduler()
 # scheduler.add_job(main, 'interval', hours=0.01)
-scheduler.add_job(main, 'cron', day_of_week = '*', hour='10', minute='00')
-scheduler.add_job(main, 'cron', day_of_week = '*', hour='17', minute='00')
+scheduler.add_job(main, trigger='cron', hour='10', minute='00')
+scheduler.add_job(main, trigger='cron', hour='17', minute='00')
 scheduler.start()
