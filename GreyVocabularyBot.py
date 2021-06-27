@@ -4,6 +4,9 @@ import random
 from config import Config as SETTING
 from telegram import ParseMode
 from apscheduler.schedulers.blocking import BlockingScheduler
+from datetime import datetime
+from datetime import tzinfo
+
 
 def getRandomWord(jsonFile):
     randNumber = random.randrange(0, 817)
@@ -72,6 +75,6 @@ def main():
 
 scheduler = BlockingScheduler()
 # scheduler.add_job(main, 'interval', hours=0.01)
-scheduler.add_job(main, trigger='cron', hour='10', minute='0')
-scheduler.add_job(main, trigger='cron', hour='17', minute='0')
+scheduler.add_job(main, trigger='cron', hour='15', minute='30')
+scheduler.add_job(main, trigger='cron', hour='22', minute='30')
 scheduler.start()
