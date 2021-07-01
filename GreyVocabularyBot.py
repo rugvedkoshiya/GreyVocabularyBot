@@ -49,7 +49,7 @@ def convertToOGG():
         ffmpeg.run(stream, quiet=True)
         return output
     except RuntimeError as e:
-        logging.error('An error occured whilst converting the file.', exc_info=e)
+        logging.error('An error occured while    converting the file.', exc_info=e)
 
 
 def runBot(auth, jsonFile, sendTime):
@@ -62,7 +62,7 @@ def runBot(auth, jsonFile, sendTime):
     myWord.save("myWord.mp3")
     myWord = open(convertToOGG(), "rb")
     try:
-        telegram.Bot.sendAudio(auth, SETTING.CHANNEL_ID, audio=myWord, caption=f"<b><i>{jsonFile[len(wordIndexList)]['word']}</i></b>\n--------------\n{jsonFile[len(wordIndexList)]['meaning']}", parse_mode=ParseMode.HTML)
+        telegram.Bot.sendAudio(auth, SETTING.CHANNEL_ID, audio=myWord, caption=f"<b><i>{jsonFile[wordIndexList[-1]]['word']}</i></b>\n--------------\n{jsonFile[wordIndexList[-1]]['meaning']}", parse_mode=ParseMode.HTML)
     except telegram.error.BadRequest as e:
         telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"Bad Request in Channel :)", parse_mode=ParseMode.HTML)
     except telegram.error.Unauthorized as e:
@@ -70,6 +70,7 @@ def runBot(auth, jsonFile, sendTime):
     except Exception as e:
         telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"Got Error in Channel :(\n\n{e}", parse_mode=ParseMode.HTML)
     myWord.close()
+
 
 
     # Send message to user about today
@@ -93,18 +94,19 @@ def runBot(auth, jsonFile, sendTime):
     for wordIndex in wordIndexList:
         myWord = gTTS(text=jsonFile[wordIndex]['word'], lang='en', slow=True, lang_check=True)
         myWord.save("myWord.mp3")
-        myWord = open(convertToOGG(), "rb")
+        convertToOGG()
 
         for chatId in SETTING.CHAT_IDS:
             try:
-                telegram.Bot.sendAudio(auth, chatId, audio=myWord, caption=f"<b><i>{jsonFile[wordIndex]['word']}</i></b>\n--------------\n{jsonFile[wordIndex]['meaning']}", parse_mode=ParseMode.HTML)
+                myWord = open("myWord.ogg", "rb")
+                telegram.Bot.sendAudio(auth, chat_id=chatId, audio=myWord, caption=f"<b><i>{jsonFile[wordIndex]['word']}</i></b>\n--------------\n{jsonFile[wordIndex]['meaning']}", parse_mode=ParseMode.HTML)
+                myWord.close()
             except telegram.error.BadRequest as e:
-                telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"{chatId} I don't know him/her :)", parse_mode=ParseMode.HTML)
+                telegram.Bot.sendMessage(auth, chat_id=SETTING.ADMIN_ID, text=f"{chatId} I don't know him/her :)", parse_mode=ParseMode.HTML)
             except telegram.error.Unauthorized as e:
-                telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"{chatId} has blocked me :(", parse_mode=ParseMode.HTML)
+                telegram.Bot.sendMessage(auth, chat_id=SETTING.ADMIN_ID, text=f"{chatId} has blocked me :(", parse_mode=ParseMode.HTML)
             except Exception as e:
-                telegram.Bot.sendMessage(auth, SETTING.ADMIN_ID, text=f"got error with {chatId} :(\n\n{e}", parse_mode=ParseMode.HTML)
-        myWord.close()
+                telegram.Bot.sendMessage(auth, chat_id=SETTING.ADMIN_ID, text=f"got error with {chatId} :(\n\n{e}", parse_mode=ParseMode.HTML)
 
 
 
@@ -123,4 +125,5 @@ startDate = date.today()
 scheduler = BlockingScheduler()
 scheduler.add_job(lambda : main(0), trigger='cron', hour='4', minute='30')
 scheduler.add_job(lambda : main(1), trigger='cron', hour='11', minute='30')
+# scheduler.add_job(lambda : main(1), trigger='cron', hour='18', minute='20')
 scheduler.start()
